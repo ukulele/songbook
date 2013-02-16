@@ -13,5 +13,6 @@
 \contentsline {section}{\numberline {2.8}Hallelujah / Leonard Cohen}{16}{section.2.8}
 \contentsline {section}{\numberline {2.9}Hounds of Love / Kate Bush}{18}{section.2.9}
 \contentsline {chapter}{\numberline {3}Songs / N -- Z}{22}{chapter.3}
-\contentsline {section}{\numberline {3.1}The Shoop Shoop Song / Rudy Clark}{23}{section.3.1}
-\contentsline {section}{\numberline {3.2}The Times They Are a-Changin' / Bob Dylan}{26}{section.3.2}
+\contentsline {section}{\numberline {3.1}Radio Ga Ga / Queen}{23}{section.3.1}
+\contentsline {section}{\numberline {3.2}The Shoop Shoop Song / Rudy Clark}{25}{section.3.2}
+\contentsline {section}{\numberline {3.3}The Times They Are a-Changin' / Bob Dylan}{28}{section.3.3}

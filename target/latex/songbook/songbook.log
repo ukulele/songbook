@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.2.16)  16 FEB 2013 22:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.2.16)  16 FEB 2013 23:25
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1428,7 +1428,8 @@ Package: gchords
 (./songs/a/alright.aux) (./songs/d/dirty_old_town.aux) (./songs/d/downtown.aux)
 (./songs/e/echo_beach.aux) (./songs/f/five_foot_two.aux)
 (./songs/h/hallelujah.aux) (./songs/h/houndsoflove.aux)
-(./songs/s/shoop_shoop_song.aux) (./songs/t/times_they_are_a_changin.aux))
+(./songs/r/radiogaga.aux) (./songs/s/shoop_shoop_song.aux)
+(./songs/t/times_they_are_a_changin.aux))
 \openout1 = `songbook.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
@@ -2078,29 +2079,49 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 181--181
 
 
 ]
+\openout2 = `songs/r/radiogaga.aux'.
+
+ (./songs/r/radiogaga.tex
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 9--186
+
+ []
+
+[23
+
+] [24]
 \openout2 = `songs/s/shoop_shoop_song.aux'.
 
  (./songs/s/shoop_shoop_song.tex
 
-LaTeX Warning: Marginpar on page 23 moved.
+LaTeX Warning: Marginpar on page 25 moved.
 
 
-LaTeX Warning: Marginpar on page 23 moved.
+LaTeX Warning: Marginpar on page 25 moved.
 
 
-LaTeX Warning: Marginpar on page 23 moved.
+LaTeX Warning: Marginpar on page 25 moved.
 
 
-LaTeX Warning: Marginpar on page 23 moved.
+LaTeX Warning: Marginpar on page 25 moved.
 
 
-LaTeX Warning: Marginpar on page 23 moved.
+LaTeX Warning: Marginpar on page 25 moved.
 
 
-LaTeX Warning: Marginpar on page 23 moved.
+LaTeX Warning: Marginpar on page 25 moved.
 
 
-LaTeX Warning: Marginpar on page 23 moved.
+LaTeX Warning: Marginpar on page 25 moved.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 24--25
@@ -2117,7 +2138,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-[23
+[25
+
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 45--46
@@ -2144,7 +2166,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
-[24]
+[26]
 Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
@@ -2159,7 +2181,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
-) [25]
+) [27]
 \openout2 = `songs/t/times_they_are_a_changin.aux'.
 
  (./songs/t/times_they_are_a_changin.tex
@@ -2168,19 +2190,19 @@ Overfull \hbox (0.56747pt too wide) in paragraph at lines 1--1
  []
 
 
-LaTeX Warning: Marginpar on page 26 moved.
+LaTeX Warning: Marginpar on page 28 moved.
 
 
-LaTeX Warning: Marginpar on page 26 moved.
+LaTeX Warning: Marginpar on page 28 moved.
 
 
-LaTeX Warning: Marginpar on page 26 moved.
+LaTeX Warning: Marginpar on page 28 moved.
 
 
-LaTeX Warning: Marginpar on page 26 moved.
+LaTeX Warning: Marginpar on page 28 moved.
 
 
-LaTeX Warning: Marginpar on page 26 moved.
+LaTeX Warning: Marginpar on page 28 moved.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
@@ -2192,7 +2214,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-[26
+[28
 
 
 ]
@@ -2205,7 +2227,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
-) [27]
+) [29]
 
 Package minitoc Warning: W0093
 (minitoc)                Some "*.mld" or "*.mlo" files are missing 
@@ -2459,25 +2481,26 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the songbook.log file.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 205.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 205.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 206.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 206.
 (./songbook.aux (./chapters/welcome.aux) (./songs/a/ace_of_spades.aux)
 (./songs/a/all_my_loving.aux) (./songs/a/alright.aux)
 (./songs/d/dirty_old_town.aux) (./songs/d/downtown.aux)
 (./songs/e/echo_beach.aux) (./songs/f/five_foot_two.aux)
 (./songs/h/hallelujah.aux) (./songs/h/houndsoflove.aux)
-(./songs/s/shoop_shoop_song.aux) (./songs/t/times_they_are_a_changin.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 205.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 205.
+(./songs/r/radiogaga.aux) (./songs/s/shoop_shoop_song.aux)
+(./songs/t/times_they_are_a_changin.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 206.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 206.
 Package rerunfilecheck Info: File `songbook.out' has not changed.
-(rerunfilecheck)             Checksum: D37B690DBA30905995D1673E5986A7CC;1041.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 205.
+(rerunfilecheck)             Checksum: B2381C624E50CB03329B4300D066FB00;1107.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 206.
  ) 
 Here is how much of TeX's memory you used:
- 7971 strings out of 495059
- 113260 string characters out of 3182030
- 252770 words of memory out of 3000000
- 10734 multiletter control sequences out of 15000+200000
+ 7989 strings out of 495059
+ 113514 string characters out of 3182030
+ 253306 words of memory out of 3000000
+ 10741 multiletter control sequences out of 15000+200000
  72127 words of font info for 75 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  29i,9n,35p,562b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2491,10 +2514,10 @@ e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmsy8.pfb>
-Output written on songbook.pdf (28 pages, 265278 bytes).
+Output written on songbook.pdf (30 pages, 271591 bytes).
 PDF statistics:
- 279 PDF objects out of 1000 (max. 8388607)
- 235 compressed objects within 3 object streams
- 48 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 294 PDF objects out of 1000 (max. 8388607)
+ 248 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
