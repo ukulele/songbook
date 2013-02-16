@@ -123,7 +123,7 @@
 
 % Other chords
 \newcommand{\Bflat}{\marginpar{\chord{t}{3,2,1,1}{B$\flat$}}}
-\newcommand{\BflatDiminishedSeven}{\marginpar{\chord{t}{3,2,1,1}{B$\flat$dim\large{7}}}}
+\newcommand{\BflatDimishedSeven}{\marginpar{\chord{t}{3,2,1,1}{B$\flat$dim\large{7}}}}
 \newcommand{\Caugmented}{\marginpar{\chord{t}{1,o,o,3}{C+}}}
 \newcommand{\Gaugmented}{\marginpar{\chord{t}{4,3,3,2}{G+}}}
 

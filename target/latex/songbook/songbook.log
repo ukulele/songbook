@@ -1,0 +1,2500 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.2.16)  16 FEB 2013 22:50
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**/home/charlie/uke/target/latex/songbook/songbook.tex
+(/home/charlie/uke/target/latex/songbook/songbook.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4300.
+\c@Hy@tempcnt=\count91
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4653.
+\Fld@menulength=\count92
+\Field@Width=\dimen104
+\Fld@charsize=\dimen105
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring OFF on input line 5793.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count98
+\Gm@cntv=\count99
+\c@Gm@tempcnt=\count100
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks15
+
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (426.79134pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (739.77165pt) is ignored.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (./minitoc.sty
+Package: minitoc 2008/07/16 v60 Package minitoc (JPFD)
+ (./mtcmess.sty
+Package: mtcmess 2006/03/14
+)
+Package minitoc Info: I0001
+(minitoc)             *** minitoc package, version 60 ***.
+\tf@mtc=\write3
+\mtcindent=\skip44
+\mtcskipamount=\skip45
+Package minitoc Info: I0005
+(minitoc)             compatible with hyperref.
+Package minitoc Info: I0023
+(minitoc)             part level macros available.
+Package minitoc Info: I0003
+(minitoc)             chapter level macros available.
+\mtc@toks=\toks17
+\mtc@strutbox=\box26
+\mtc@hstrutbox=\box27
+Package minitoc Info: I0002
+(minitoc)             Autoconfiguration of extensions.
+\openout3 = `songbook.mtc0'.
+
+\openout3 = `songbook.mtc'.
+
+
+(./songbook.mtc0)
+Package minitoc Info: I0012
+(minitoc)             Long extensions (Unix-like) will be used.
+Package minitoc Info: I0031
+(minitoc)             ==> this version is configured for UNIX-like 
+(minitoc)                 (long extensions) file names.
+\openout3 = `songbook.mtc'.
+
+\openout3 = `songbook.mtc0'.
+
+\c@mtc=\count101
+\c@minitocdepth=\count102
+\c@ptc=\count103
+\c@parttocdepth=\count104
+\ptcindent=\skip46
+Package minitoc Info: I0050
+(minitoc)             The required "acadian.mld" file is missing. 
+(minitoc)             The "acadian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "acadien.mld" file is missing. 
+(minitoc)             The "acadien" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "afrikaan.mld" file is missing. 
+(minitoc)             The "afrikaan" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "afrikaans.mld" file is missing. 
+(minitoc)             The "afrikaans" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "albanian.mld" file is missing. 
+(minitoc)             The "albanian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "american.mld" file is missing. 
+(minitoc)             The "american" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "arab.mld" file is missing. 
+(minitoc)             The "arab" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "arab2.mld" file is missing. 
+(minitoc)             The "arab2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "arabi.mld" file is missing. 
+(minitoc)             The "arabi" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "arabic.mld" file is missing. 
+(minitoc)             The "arabic" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "armenian.mld" file is missing. 
+(minitoc)             The "armenian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "australian.mld" file is missing. 
+(minitoc)             The "australian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "austrian.mld" file is missing. 
+(minitoc)             The "austrian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "bahasa.mld" file is missing. 
+(minitoc)             The "bahasa" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "bahasai.mld" file is missing. 
+(minitoc)             The "bahasai" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "bahasam.mld" file is missing. 
+(minitoc)             The "bahasam" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "bangla.mld" file is missing. 
+(minitoc)             The "bangla" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "basque.mld" file is missing. 
+(minitoc)             The "basque" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "bengali.mld" file is missing. 
+(minitoc)             The "bengali" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "bicig.mld" file is missing. 
+(minitoc)             The "bicig" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "bicig2.mld" file is missing. 
+(minitoc)             The "bicig2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "bicig3.mld" file is missing. 
+(minitoc)             The "bicig3" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "bithe.mld" file is missing. 
+(minitoc)             The "bithe" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "brazil.mld" file is missing. 
+(minitoc)             The "brazil" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "brazilian.mld" file is missing. 
+(minitoc)             The "brazilian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "breton.mld" file is missing. 
+(minitoc)             The "breton" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "british.mld" file is missing. 
+(minitoc)             The "british" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "bulgarian.mld" file is missing. 
+(minitoc)             The "bulgarian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "bulgarianb.mld" file is missing. 
+(minitoc)             The "bulgarianb" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "buryat.mld" file is missing. 
+(minitoc)             The "buryat" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "buryat2.mld" file is missing. 
+(minitoc)             The "buryat2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "canadian.mld" file is missing. 
+(minitoc)             The "canadian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "canadien.mld" file is missing. 
+(minitoc)             The "canadien" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "castillan.mld" file is missing. 
+(minitoc)             The "castillan" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "castillian.mld" file is missing. 
+(minitoc)             The "castillian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "catalan.mld" file is missing. 
+(minitoc)             The "catalan" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "chinese1.mlo" file is missing. 
+(minitoc)             The "chinese1" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "chinese1.mld" file is missing. 
+(minitoc)             The "chinese1" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "chinese2.mlo" file is missing. 
+(minitoc)             The "chinese2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "chinese2.mld" file is missing. 
+(minitoc)             The "chinese2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "croatian.mld" file is missing. 
+(minitoc)             The "croatian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "czech.mld" file is missing. 
+(minitoc)             The "czech" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "danish.mld" file is missing. 
+(minitoc)             The "danish" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "devanagari.mld" file is missing. 
+(minitoc)             The "devanagari" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "dutch.mld" file is missing. 
+(minitoc)             The "dutch" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "english1.mld" file is missing. 
+(minitoc)             The "english1" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "english2.mld" file is missing. 
+(minitoc)             The "english2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "esperant.mld" file is missing. 
+(minitoc)             The "esperant" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "esperanto.mld" file is missing. 
+(minitoc)             The "esperanto" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "estonian.mld" file is missing. 
+(minitoc)             The "estonian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "ethiopia.mld" file is missing. 
+(minitoc)             The "ethiopia" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "ethiopian.mld" file is missing. 
+(minitoc)             The "ethiopian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "ethiopian2.mld" file is missing. 
+(minitoc)             The "ethiopian2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "farsi1.mlo" file is missing. 
+(minitoc)             The "farsi1" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "farsi1.mld" file is missing. 
+(minitoc)             The "farsi1" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "farsi2.mlo" file is missing. 
+(minitoc)             The "farsi2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "farsi2.mld" file is missing. 
+(minitoc)             The "farsi2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "farsi3.mld" file is missing. 
+(minitoc)             The "farsi3" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "finnish.mld" file is missing. 
+(minitoc)             The "finnish" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "finnish2.mld" file is missing. 
+(minitoc)             The "finnish2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "francais.mld" file is missing. 
+(minitoc)             The "francais" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "french.mld" file is missing. 
+(minitoc)             The "french" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "french1.mld" file is missing. 
+(minitoc)             The "french1" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "french2.mld" file is missing. 
+(minitoc)             The "french2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "frenchb.mld" file is missing. 
+(minitoc)             The "frenchb" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "frenchle.mld" file is missing. 
+(minitoc)             The "frenchle" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "frenchpro.mld" file is missing. 
+(minitoc)             The "frenchpro" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "galician.mld" file is missing. 
+(minitoc)             The "galician" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "german.mld" file is missing. 
+(minitoc)             The "german" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "germanb.mld" file is missing. 
+(minitoc)             The "germanb" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "germanb2.mld" file is missing. 
+(minitoc)             The "germanb2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "greek.mld" file is missing. 
+(minitoc)             The "greek" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "greek-mono.mld" file is missing. 
+(minitoc)             The "greek-mono" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "greek-polydemo.mld" file is missing. 
+(minitoc)             The "greek-polydemo" language option will not be availabl
+e. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "greek-polykatha.mld" file is missing. 
+(minitoc)             The "greek-polykatha" language option will not be availab
+le. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "guarani.mld" file is missing. 
+(minitoc)             The "guarani" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "hangul1.mlo" file is missing. 
+(minitoc)             The "hangul1" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hangul1.mld" file is missing. 
+(minitoc)             The "hangul1" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "hangul2.mlo" file is missing. 
+(minitoc)             The "hangul2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hangul2.mld" file is missing. 
+(minitoc)             The "hangul2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "hangul3.mlo" file is missing. 
+(minitoc)             The "hangul3" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hangul3.mld" file is missing. 
+(minitoc)             The "hangul3" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "hangul4.mlo" file is missing. 
+(minitoc)             The "hangul4" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hangul4.mld" file is missing. 
+(minitoc)             The "hangul4" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "hangul-u8.mlo" file is missing. 
+(minitoc)             The "hangul-u8" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hangul-u8.mld" file is missing. 
+(minitoc)             The "hangul-u8" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "hanja1.mlo" file is missing. 
+(minitoc)             The "hanja1" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hanja1.mld" file is missing. 
+(minitoc)             The "hanja1" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "hanja2.mlo" file is missing. 
+(minitoc)             The "hanja2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hanja2.mld" file is missing. 
+(minitoc)             The "hanja2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "hanja-u8.mlo" file is missing. 
+(minitoc)             The "hanja-u8" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hanja-u8.mld" file is missing. 
+(minitoc)             The "hanja-u8" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hebrew.mld" file is missing. 
+(minitoc)             The "hebrew" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hebrew2.mld" file is missing. 
+(minitoc)             The "hebrew2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hindi.mld" file is missing. 
+(minitoc)             The "hindi" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hindi-modern.mld" file is missing. 
+(minitoc)             The "hindi-modern" language option will not be available.
+ 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "hungarian.mld" file is missing. 
+(minitoc)             The "hungarian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "icelandic.mld" file is missing. 
+(minitoc)             The "icelandic" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "indon.mld" file is missing. 
+(minitoc)             The "indon" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "indonesian.mld" file is missing. 
+(minitoc)             The "indonesian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "interlingua.mld" file is missing. 
+(minitoc)             The "interlingua" language option will not be available. 
+
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "irish.mld" file is missing. 
+(minitoc)             The "irish" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "italian.mld" file is missing. 
+(minitoc)             The "italian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "italian2.mld" file is missing. 
+(minitoc)             The "italian2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "japanese.mlo" file is missing. 
+(minitoc)             The "japanese" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "japanese.mld" file is missing. 
+(minitoc)             The "japanese" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "japanese2.mlo" file is missing. 
+(minitoc)             The "japanese2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "japanese2.mld" file is missing. 
+(minitoc)             The "japanese2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "japanese3.mlo" file is missing. 
+(minitoc)             The "japanese3" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "japanese3.mld" file is missing. 
+(minitoc)             The "japanese3" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "japanese4.mlo" file is missing. 
+(minitoc)             The "japanese4" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "japanese4.mld" file is missing. 
+(minitoc)             The "japanese4" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "japanese5.mlo" file is missing. 
+(minitoc)             The "japanese5" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "japanese5.mld" file is missing. 
+(minitoc)             The "japanese5" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "japanese6.mlo" file is missing. 
+(minitoc)             The "japanese6" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "japanese6.mld" file is missing. 
+(minitoc)             The "japanese6" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "kannada.mld" file is missing. 
+(minitoc)             The "kannada" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "khalkha.mld" file is missing. 
+(minitoc)             The "khalkha" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "latin.mld" file is missing. 
+(minitoc)             The "latin" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "latin2.mld" file is missing. 
+(minitoc)             The "latin2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "latinc.mld" file is missing. 
+(minitoc)             The "latinc" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "latinc2.mld" file is missing. 
+(minitoc)             The "latinc2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "latvian.mld" file is missing. 
+(minitoc)             The "latvian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "latvian2.mld" file is missing. 
+(minitoc)             The "latvian2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "letton.mld" file is missing. 
+(minitoc)             The "letton" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "letton2.mld" file is missing. 
+(minitoc)             The "letton2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "lithuanian.mld" file is missing. 
+(minitoc)             The "lithuanian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "lithuanian2.mld" file is missing. 
+(minitoc)             The "lithuanian2" language option will not be available. 
+
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "lowersorbian.mld" file is missing. 
+(minitoc)             The "lowersorbian" language option will not be available.
+ 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "lsorbian.mld" file is missing. 
+(minitoc)             The "lsorbian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "magyar.mld" file is missing. 
+(minitoc)             The "magyar" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "magyar2.mld" file is missing. 
+(minitoc)             The "magyar2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "magyar3.mld" file is missing. 
+(minitoc)             The "magyar3" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "malay.mld" file is missing. 
+(minitoc)             The "malay" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "malayalam-b.mld" file is missing. 
+(minitoc)             The "malayalam-b" language option will not be available. 
+
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "malayalam-keli.mld" file is missing. 
+(minitoc)             The "malayalam-keli" language option will not be availabl
+e. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "malayalam-keli2.mld" file is missing. 
+(minitoc)             The "malayalam-keli2" language option will not be availab
+le. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "malayalam-mr.mld" file is missing. 
+(minitoc)             The "malayalam-mr" language option will not be available.
+ 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "malayalam-omega.mlo" file is missing. 
+(minitoc)             The "malayalam-omega" language option will not be availab
+le. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "malayalam-omega.mld" file is missing. 
+(minitoc)             The "malayalam-omega" language option will not be availab
+le. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "malayalam-rachana.mld" file is missing. 
+(minitoc)             The "malayalam-rachana" language option will not be avail
+able. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "malayalam-rachana2.mld" file is missing. 
+(minitoc)             The "malayalam-rachana2" language option will not be avai
+lable. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "malayalam-rachana3.mld" file is missing. 
+(minitoc)             The "malayalam-rachana3" language option will not be avai
+lable. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "manju.mld" file is missing. 
+(minitoc)             The "manju" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "mexican.mld" file is missing. 
+(minitoc)             The "mexican" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "meyalu.mld" file is missing. 
+(minitoc)             The "meyalu" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "mongol.mld" file is missing. 
+(minitoc)             The "mongol" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "mongolb.mld" file is missing. 
+(minitoc)             The "mongolb" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "mongolian.mld" file is missing. 
+(minitoc)             The "mongolian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "naustrian.mld" file is missing. 
+(minitoc)             The "naustrian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "ngerman.mld" file is missing. 
+(minitoc)             The "ngerman" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "newzealand.mld" file is missing. 
+(minitoc)             The "newzealand" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "ngermanb.mld" file is missing. 
+(minitoc)             The "ngermanb" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "ngermanb2.mld" file is missing. 
+(minitoc)             The "ngermanb2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "norsk.mld" file is missing. 
+(minitoc)             The "norsk" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "norsk2.mld" file is missing. 
+(minitoc)             The "norsk2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "nynorsk.mld" file is missing. 
+(minitoc)             The "nynorsk" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "nynorsk2.mld" file is missing. 
+(minitoc)             The "nynorsk2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "occitan.mld" file is missing. 
+(minitoc)             The "occitan" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "occitan2.mld" file is missing. 
+(minitoc)             The "occitan2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "polish.mld" file is missing. 
+(minitoc)             The "polish" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "polish2.mld" file is missing. 
+(minitoc)             The "polish2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "polski.mld" file is missing. 
+(minitoc)             The "polski" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "portuges.mld" file is missing. 
+(minitoc)             The "portuges" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "portuguese.mld" file is missing. 
+(minitoc)             The "portuguese" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "romanian.mld" file is missing. 
+(minitoc)             The "romanian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "romanian2.mld" file is missing. 
+(minitoc)             The "romanian2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "romanian3.mld" file is missing. 
+(minitoc)             The "romanian3" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "russian.mld" file is missing. 
+(minitoc)             The "russian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "russianb.mld" file is missing. 
+(minitoc)             The "russianb" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "russianc.mld" file is missing. 
+(minitoc)             The "russianc" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "russian2m.mld" file is missing. 
+(minitoc)             The "russian2m" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "russian2o.mld" file is missing. 
+(minitoc)             The "russian2o" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "russian-cca.mlo" file is missing. 
+(minitoc)             The "russian-cca" language option will not be available. 
+
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "russian-cca.mld" file is missing. 
+(minitoc)             The "russian-cca" language option will not be available. 
+
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "russian-cca1.mlo" file is missing. 
+(minitoc)             The "russian-cca1" language option will not be available.
+ 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "russian-cca1.mld" file is missing. 
+(minitoc)             The "russian-cca1" language option will not be available.
+ 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "russian-lh.mlo" file is missing. 
+(minitoc)             The "russian-lh" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "russian-lh.mld" file is missing. 
+(minitoc)             The "russian-lh" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "russian-lhcyralt.mlo" file is missing. 
+(minitoc)             The "russian-lhcyralt" language option will not be availa
+ble. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "russian-lhcyralt.mld" file is missing. 
+(minitoc)             The "russian-lhcyralt" language option will not be availa
+ble. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "russian-lhcyrkoi.mlo" file is missing. 
+(minitoc)             The "russian-lhcyrkoi" language option will not be availa
+ble. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "russian-lhcyrkoi.mld" file is missing. 
+(minitoc)             The "russian-lhcyrkoi" language option will not be availa
+ble. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "russian-lhcyrwin.mlo" file is missing. 
+(minitoc)             The "russian-lhcyrwin" language option will not be availa
+ble. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "russian-lhcyrwin.mld" file is missing. 
+(minitoc)             The "russian-lhcyrwin" language option will not be availa
+ble. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "samin.mld" file is missing. 
+(minitoc)             The "samin" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "scottish.mld" file is missing. 
+(minitoc)             The "scottish" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "serbian.mld" file is missing. 
+(minitoc)             The "serbian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "serbianc.mld" file is missing. 
+(minitoc)             The "serbianc" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "slovak.mld" file is missing. 
+(minitoc)             The "slovak" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "slovene.mld" file is missing. 
+(minitoc)             The "slovene" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "spanish.mld" file is missing. 
+(minitoc)             The "spanish" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "spanish2.mld" file is missing. 
+(minitoc)             The "spanish2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "spanish3.mld" file is missing. 
+(minitoc)             The "spanish3" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "spanish4.mld" file is missing. 
+(minitoc)             The "spanish4" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "swahili.mld" file is missing. 
+(minitoc)             The "swahili" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "swedish.mld" file is missing. 
+(minitoc)             The "swedish" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "swedish2.mld" file is missing. 
+(minitoc)             The "swedish2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0051
+(minitoc)             The required "thai.mlo" file is missing. 
+(minitoc)             The "thai" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "thai.mld" file is missing. 
+(minitoc)             The "thai" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "turkish.mld" file is missing. 
+(minitoc)             The "turkish" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "uighur.mld" file is missing. 
+(minitoc)             The "uighur" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "uighur2.mld" file is missing. 
+(minitoc)             The "uighur2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "uighur3.mld" file is missing. 
+(minitoc)             The "uighur3" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "UKenglish.mld" file is missing. 
+(minitoc)             The "UKenglish" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "ukraineb.mld" file is missing. 
+(minitoc)             The "ukraineb" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "ukrainian.mld" file is missing. 
+(minitoc)             The "ukrainian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "uppersorbian.mld" file is missing. 
+(minitoc)             The "uppersorbian" language option will not be available.
+ 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "USenglish.mld" file is missing. 
+(minitoc)             The "USenglish" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "usorbian.mld" file is missing. 
+(minitoc)             The "usorbian" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "vietnam.mld" file is missing. 
+(minitoc)             The "vietnam" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "vietnamese.mld" file is missing. 
+(minitoc)             The "vietnamese" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "welsh.mld" file is missing. 
+(minitoc)             The "welsh" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "xalx.mld" file is missing. 
+(minitoc)             The "xalx" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "xalx2.mld" file is missing. 
+(minitoc)             The "xalx2" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0050
+(minitoc)             The required "xalx3.mld" file is missing. 
+(minitoc)             The "xalx3" language option will not be available. 
+(minitoc)             Please install it from a recent distribution 
+(minitoc)             or from the CTAN archives.
+Package minitoc Info: I0010
+(minitoc)             The english language is selected.
+(minitoc)              on input line 4910.
+ (./english.mld
+File: english.mld 2006/01/13
+) (./english.mld
+File: english.mld 2006/01/13
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Package option `usenames' ignored on input line 216.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count105
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)) (./lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count106
+\output=\toks18
+\linenoprevgraf=\count107
+\linenumbersep=\dimen114
+\linenumberwidth=\dimen115
+\c@linenumber=\count108
+\c@pagewiselinenumber=\count109
+\c@LN@truepage=\count110
+\c@internallinenumber=\count111
+\c@internallinenumbers=\count112
+\quotelinenumbersep=\dimen116
+\bframerule=\dimen117
+\bframesep=\dimen118
+\bframebox=\box28
+LaTeX Info: Redefining \\ on input line 3056.
+) (./gchords.sty
+Package: gchords 
+\cwidth=\skip47
+\truewidth=\count113
+\topline=\count114
+\myvpos=\count115
+\mylength=\count116
+\fpos=\count117
+\ghor=\count118
+\prevpos=\count119
+\dlen=\count120
+\cpos=\count121
+\stpos=\count122
+\needsize=\dimen119
+\ascale=\dimen120
+) (./songbook.aux (./chapters/welcome.aux)
+(./songs/a/ace_of_spades.aux) (./songs/a/all_my_loving.aux)
+(./songs/a/alright.aux) (./songs/d/dirty_old_town.aux) (./songs/d/downtown.aux)
+(./songs/e/echo_beach.aux) (./songs/f/five_foot_two.aux)
+(./songs/h/hallelujah.aux) (./songs/h/houndsoflove.aux)
+(./songs/s/shoop_shoop_song.aux) (./songs/t/times_they_are_a_changin.aux))
+\openout1 = `songbook.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 135.
+
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring OFF on input line 135.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count123
+)
+LaTeX Info: Redefining \ref on input line 135.
+LaTeX Info: Redefining \pageref on input line 135.
+LaTeX Info: Redefining \nameref on input line 135.
+
+(./songbook.out) (./songbook.out)
+\@outlinefile=\write4
+\openout4 = `songbook.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 380.69789pt, 144.54pt)
+* v-part:(T,H,B)=(42.67912pt, 730.09773pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=380.69789pt
+* \textheight=730.09773pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-61.46466pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=0.0pt
+* \marginparsep=72.26999pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package minitoc(hints) Info: I0049
+(minitoc(hints))             ==> You requested the hints option. 
+(minitoc(hints))             Some hints are eventually given below.
+
+Package minitoc(hints) Warning: W0030
+(minitoc(hints))                --- The \part command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+
+Package minitoc(hints) Warning: W0028
+(minitoc(hints))                --- The \chapter command is altered 
+(minitoc(hints))                after minitoc.
+
+
+Package minitoc(hints) Warning: W0023
+(minitoc(hints))                --- It may be the consequence 
+(minitoc(hints))                of loading the ``hyperref'' package.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count124
+\scratchdimen=\dimen121
+\scratchbox=\box30
+\nofMPsegments=\count125
+\nofMParguments=\count126
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count127
+\MPscratchDim=\dimen122
+\MPnumerator=\count128
+\makeMPintoPDFobject=\count129
+\everyMPtoPDFconversion=\toks20
+)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (483.69684pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (739.77165pt) is ignored.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 1:1
+* vratio: 1:1
+* modes: 
+* h-part:(L,W,R)=(144.54pt, 308.42789pt, 144.54pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=308.42789pt
+* \textheight=731.23584pt
+* \oddsidemargin=72.27pt
+* \evensidemargin=72.27pt
+* \topmargin=-47.23828pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=0.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=72.26999pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 142.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 142
+.
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 142
+.
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 142.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 142.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 142.
+LaTeX Font Info:    Try loading font information for U+msa on input line 142.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 142.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Package minitoc Info: I0024
+(minitoc)             PREPARING MINITOCS FROM songbook.toc on input line 145.
+Package minitoc Info: I0033
+(minitoc)             Writing songbook.mtc1.
+\openout3 = `songbook.mtc1'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing songbook.mtc2.
+\openout3 = `songbook.mtc2'.
+
+Package minitoc Info: I0033
+(minitoc)             Writing songbook.mtc3.
+\openout3 = `songbook.mtc3'.
+
+
+
+Package minitoc Warning: W0008
+(minitoc)                No file songbook.lof. 
+(minitoc)                MINILOFS NOT PREPARED on input line 146.
+
+
+Package minitoc Warning: W0009
+(minitoc)                No file songbook.lot. 
+(minitoc)                MINILOTS NOT PREPARED on input line 147.
+
+(./songbook.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 2.
+)
+\tf@toc=\write5
+\openout5 = `songbook.toc'.
+
+ [1
+
+
+]
+\openout2 = `chapters/welcome.aux'.
+
+ (./chapters/welcome.tex
+Chapter 1.
+) [2
+
+
+]
+Chapter 2.
+\openout3 = `songbook.mtc'.
+
+\openout3 = `songbook.mtc'.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 159.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 159.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 159.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 159--159
+[][][]  
+ []
+
+(./songbook.mtc2)
+Overfull \hbox (30.0pt too wide) in paragraph at lines 159--159
+[][]  
+ []
+
+[3
+
+
+]
+\openout2 = `songs/a/ace_of_spades.aux'.
+
+ (./songs/a/ace_of_spades.tex
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+LaTeX Warning: Marginpar on page 4 moved.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+[4
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+) [5]
+\openout2 = `songs/a/all_my_loving.aux'.
+
+ (./songs/a/all_my_loving.tex
+
+LaTeX Warning: Marginpar on page 6 moved.
+
+
+LaTeX Warning: Marginpar on page 6 moved.
+
+
+LaTeX Warning: Marginpar on page 6 moved.
+
+
+LaTeX Warning: Marginpar on page 6 moved.
+
+
+LaTeX Warning: Marginpar on page 6 moved.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 10.
+
+LaTeX Warning: Marginpar on page 6 moved.
+
+
+LaTeX Warning: Marginpar on page 6 moved.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 19.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+[6
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+) [7]
+\openout2 = `songs/a/alright.aux'.
+
+ (./songs/a/alright.tex
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 10--166
+
+ []
+
+[8
+
+
+] [9]
+\openout2 = `songs/d/dirty_old_town.aux'.
+
+ (./songs/d/dirty_old_town.tex
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 2.
+
+
+LaTeX Warning: Marginpar on page 10 moved.
+
+
+LaTeX Warning: Marginpar on page 10 moved.
+
+
+LaTeX Warning: Marginpar on page 10 moved.
+
+
+LaTeX Warning: Marginpar on page 10 moved.
+
+
+LaTeX Warning: Marginpar on page 10 moved.
+
+
+LaTeX Warning: Marginpar on page 10 moved.
+
+
+LaTeX Warning: Marginpar on page 10 moved.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+[10
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+) [11]
+\openout2 = `songs/d/downtown.aux'.
+
+ (./songs/d/downtown.tex
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+) [12
+
+
+]
+\openout2 = `songs/e/echo_beach.aux'.
+
+ (./songs/e/echo_beach.tex
+
+LaTeX Warning: Marginpar on page 13 moved.
+
+
+LaTeX Warning: Marginpar on page 13 moved.
+
+
+LaTeX Warning: Marginpar on page 13 moved.
+
+
+LaTeX Warning: Marginpar on page 13 moved.
+
+
+LaTeX Warning: Marginpar on page 13 moved.
+
+
+LaTeX Warning: Marginpar on page 13 moved.
+
+
+LaTeX Warning: Marginpar on page 13 moved.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+[13
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+) [14]
+\openout2 = `songs/f/five_foot_two.aux'.
+
+ (./songs/f/five_foot_two.tex
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+) [15
+
+
+]
+\openout2 = `songs/h/hallelujah.aux'.
+
+ (./songs/h/hallelujah.tex
+
+LaTeX Warning: Marginpar on page 16 moved.
+
+
+LaTeX Warning: Marginpar on page 16 moved.
+
+
+LaTeX Warning: Marginpar on page 16 moved.
+
+
+LaTeX Warning: Marginpar on page 16 moved.
+
+
+LaTeX Warning: Marginpar on page 16 moved.
+
+[16
+
+
+]) [17]
+\openout2 = `songs/h/houndsoflove.aux'.
+
+ (./songs/h/houndsoflove.tex
+
+LaTeX Warning: Marginpar on page 18 moved.
+
+
+LaTeX Warning: Marginpar on page 18 moved.
+
+
+LaTeX Warning: Marginpar on page 18 moved.
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 9--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--172
+
+ []
+
+[18
+
+
+] [19] [20] [21]
+Chapter 3.
+\openout3 = `songbook.mtc'.
+
+\openout3 = `songbook.mtc'.
+
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 181--181
+[][][]  
+ []
+
+(./songbook.mtc3)
+Overfull \hbox (30.0pt too wide) in paragraph at lines 181--181
+[][]  
+ []
+
+[22
+
+
+]
+\openout2 = `songs/s/shoop_shoop_song.aux'.
+
+ (./songs/s/shoop_shoop_song.tex
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+
+LaTeX Warning: Marginpar on page 23 moved.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+[23
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+) [25]
+\openout2 = `songs/t/times_they_are_a_changin.aux'.
+
+ (./songs/t/times_they_are_a_changin.tex
+Overfull \hbox (0.56747pt too wide) in paragraph at lines 1--1
+[]\OT1/lmr/bx/n/14.4 The Times They Are a-Changin' / Bob Dy-lan 
+ []
+
+
+LaTeX Warning: Marginpar on page 26 moved.
+
+
+LaTeX Warning: Marginpar on page 26 moved.
+
+
+LaTeX Warning: Marginpar on page 26 moved.
+
+
+LaTeX Warning: Marginpar on page 26 moved.
+
+
+LaTeX Warning: Marginpar on page 26 moved.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+[26
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+) [27]
+
+Package minitoc Warning: W0093
+(minitoc)                Some "*.mld" or "*.mlo" files are missing 
+(minitoc)                in your installation. 
+(minitoc)                Search for the I0050 and I0051 info messages 
+(minitoc)                in the \jobname.log file. 
+(minitoc)                The full list of the missing language files 
+(minitoc)                is given in the W0094 warning message. 
+(minitoc)                Please install the missing files from 
+(minitoc)                a recent distribution 
+(minitoc)                or from the CTAN archives.
+
+
+Package minitoc Warning: W0094
+(minitoc)                Missing minitoc language file(s): 
+(minitoc)                
+(minitoc)                acadian.mld
+(minitoc)                acadien.mld
+(minitoc)                afrikaan.mld
+(minitoc)                afrikaans.mld
+(minitoc)                albanian.mld
+(minitoc)                american.mld
+(minitoc)                arab.mld
+(minitoc)                arab2.mld
+(minitoc)                arabi.mld
+(minitoc)                arabic.mld
+(minitoc)                armenian.mld
+(minitoc)                australian.mld
+(minitoc)                austrian.mld
+(minitoc)                bahasa.mld
+(minitoc)                bahasai.mld
+(minitoc)                bahasam.mld
+(minitoc)                bangla.mld
+(minitoc)                basque.mld
+(minitoc)                bengali.mld
+(minitoc)                bicig.mld
+(minitoc)                bicig2.mld
+(minitoc)                bicig3.mld
+(minitoc)                bithe.mld
+(minitoc)                brazil.mld
+(minitoc)                brazilian.mld
+(minitoc)                breton.mld
+(minitoc)                british.mld
+(minitoc)                bulgarian.mld
+(minitoc)                bulgarianb.mld
+(minitoc)                buryat.mld
+(minitoc)                buryat2.mld
+(minitoc)                canadian.mld
+(minitoc)                canadien.mld
+(minitoc)                castillan.mld
+(minitoc)                castillian.mld
+(minitoc)                catalan.mld
+(minitoc)                chinese1.mlo
+(minitoc)                chinese1.mld
+(minitoc)                chinese2.mlo
+(minitoc)                chinese2.mld
+(minitoc)                croatian.mld
+(minitoc)                czech.mld
+(minitoc)                danish.mld
+(minitoc)                devanagari.mld
+(minitoc)                dutch.mld
+(minitoc)                english1.mld
+(minitoc)                english2.mld
+(minitoc)                esperant.mld
+(minitoc)                esperanto.mld
+(minitoc)                estonian.mld
+(minitoc)                ethiopia.mld
+(minitoc)                ethiopian.mld
+(minitoc)                ethiopian2.mld
+(minitoc)                farsi1.mlo
+(minitoc)                farsi1.mld
+(minitoc)                farsi2.mlo
+(minitoc)                farsi2.mld
+(minitoc)                farsi3.mld
+(minitoc)                finnish.mld
+(minitoc)                finnish2.mld
+(minitoc)                francais.mld
+(minitoc)                french.mld
+(minitoc)                french1.mld
+(minitoc)                french2.mld
+(minitoc)                frenchb.mld
+(minitoc)                frenchle.mld
+(minitoc)                frenchpro.mld
+(minitoc)                galician.mld
+(minitoc)                german.mld
+(minitoc)                germanb.mld
+(minitoc)                germanb2.mld
+(minitoc)                greek.mld
+(minitoc)                greek-mono.mld
+(minitoc)                greek-polydemo.mld
+(minitoc)                greek-polykatha.mld
+(minitoc)                guarani.mld
+(minitoc)                hangul1.mlo
+(minitoc)                hangul1.mld
+(minitoc)                hangul2.mlo
+(minitoc)                hangul2.mld
+(minitoc)                hangul3.mlo
+(minitoc)                hangul3.mld
+(minitoc)                hangul4.mlo
+(minitoc)                hangul4.mld
+(minitoc)                hangul-u8.mlo
+(minitoc)                hangul-u8.mld
+(minitoc)                hanja1.mlo
+(minitoc)                hanja1.mld
+(minitoc)                hanja2.mlo
+(minitoc)                hanja2.mld
+(minitoc)                hanja-u8.mlo
+(minitoc)                hanja-u8.mld
+(minitoc)                hebrew.mld
+(minitoc)                hebrew2.mld
+(minitoc)                hindi.mld
+(minitoc)                hindi-modern.mld
+(minitoc)                hungarian.mld
+(minitoc)                icelandic.mld
+(minitoc)                indon.mld
+(minitoc)                indonesian.mld
+(minitoc)                interlingua.mld
+(minitoc)                irish.mld
+(minitoc)                italian.mld
+(minitoc)                italian2.mld
+(minitoc)                japanese.mlo
+(minitoc)                japanese.mld
+(minitoc)                japanese2.mlo
+(minitoc)                japanese2.mld
+(minitoc)                japanese3.mlo
+(minitoc)                japanese3.mld
+(minitoc)                japanese4.mlo
+(minitoc)                japanese4.mld
+(minitoc)                japanese5.mlo
+(minitoc)                japanese5.mld
+(minitoc)                japanese6.mlo
+(minitoc)                japanese6.mld
+(minitoc)                kannada.mld
+(minitoc)                khalkha.mld
+(minitoc)                latin.mld
+(minitoc)                latin2.mld
+(minitoc)                latinc.mld
+(minitoc)                latinc2.mld
+(minitoc)                latvian.mld
+(minitoc)                latvian2.mld
+(minitoc)                letton.mld
+(minitoc)                letton2.mld
+(minitoc)                lithuanian.mld
+(minitoc)                lithuanian2.mld
+(minitoc)                lowersorbian.mld
+(minitoc)                lsorbian.mld
+(minitoc)                magyar.mld
+(minitoc)                magyar2.mld
+(minitoc)                magyar3.mld
+(minitoc)                malay.mld
+(minitoc)                malayalam-b.mld
+(minitoc)                malayalam-keli.mld
+(minitoc)                malayalam-keli2.mld
+(minitoc)                malayalam-mr.mld
+(minitoc)                malayalam-omega.mlo
+(minitoc)                malayalam-omega.mld
+(minitoc)                malayalam-rachana.mld
+(minitoc)                malayalam-rachana2.mld
+(minitoc)                malayalam-rachana3.mld
+(minitoc)                manju.mld
+(minitoc)                mexican.mld
+(minitoc)                meyalu.mld
+(minitoc)                mongol.mld
+(minitoc)                mongolb.mld
+(minitoc)                mongolian.mld
+(minitoc)                naustrian.mld
+(minitoc)                ngerman.mld
+(minitoc)                newzealand.mld
+(minitoc)                ngermanb.mld
+(minitoc)                ngermanb2.mld
+(minitoc)                norsk.mld
+(minitoc)                norsk2.mld
+(minitoc)                nynorsk.mld
+(minitoc)                nynorsk2.mld
+(minitoc)                occitan.mld
+(minitoc)                occitan2.mld
+(minitoc)                polish.mld
+(minitoc)                polish2.mld
+(minitoc)                polski.mld
+(minitoc)                portuges.mld
+(minitoc)                portuguese.mld
+(minitoc)                romanian.mld
+(minitoc)                romanian2.mld
+(minitoc)                romanian3.mld
+(minitoc)                russian.mld
+(minitoc)                russianb.mld
+(minitoc)                russianc.mld
+(minitoc)                russian2m.mld
+(minitoc)                russian2o.mld
+(minitoc)                russian-cca.mlo
+(minitoc)                russian-cca.mld
+(minitoc)                russian-cca1.mlo
+(minitoc)                russian-cca1.mld
+(minitoc)                russian-lh.mlo
+(minitoc)                russian-lh.mld
+(minitoc)                russian-lhcyralt.mlo
+(minitoc)                russian-lhcyralt.mld
+(minitoc)                russian-lhcyrkoi.mlo
+(minitoc)                russian-lhcyrkoi.mld
+(minitoc)                russian-lhcyrwin.mlo
+(minitoc)                russian-lhcyrwin.mld
+(minitoc)                samin.mld
+(minitoc)                scottish.mld
+(minitoc)                serbian.mld
+(minitoc)                serbianc.mld
+(minitoc)                slovak.mld
+(minitoc)                slovene.mld
+(minitoc)                spanish.mld
+(minitoc)                spanish2.mld
+(minitoc)                spanish3.mld
+(minitoc)                spanish4.mld
+(minitoc)                swahili.mld
+(minitoc)                swedish.mld
+(minitoc)                swedish2.mld
+(minitoc)                thai.mlo
+(minitoc)                thai.mld
+(minitoc)                turkish.mld
+(minitoc)                uighur.mld
+(minitoc)                uighur2.mld
+(minitoc)                uighur3.mld
+(minitoc)                UKenglish.mld
+(minitoc)                ukraineb.mld
+(minitoc)                ukrainian.mld
+(minitoc)                uppersorbian.mld
+(minitoc)                USenglish.mld
+(minitoc)                usorbian.mld
+(minitoc)                vietnam.mld
+(minitoc)                vietnamese.mld
+(minitoc)                welsh.mld
+(minitoc)                xalx.mld
+(minitoc)                xalx2.mld
+(minitoc)                xalx3.mld
+
+Package minitoc Info: I0009
+(minitoc)             Listing minitoc auxiliary files. 
+(minitoc)             Creating the songbook.maf file.
+\openout3 = `songbook.maf'.
+
+
+Package minitoc(hints) Warning: W0079
+(minitoc(hints))                You have used \dominilof, 
+(minitoc(hints))                but not \minilof.
+
+
+Package minitoc(hints) Warning: W0080
+(minitoc(hints))                You have used \dominilot, 
+(minitoc(hints))                but not \minilot.
+
+
+Package minitoc(hints) Warning: W0024
+(minitoc(hints))                Some hints have been written 
+(minitoc(hints))                in the songbook.log file.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 205.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 205.
+(./songbook.aux (./chapters/welcome.aux) (./songs/a/ace_of_spades.aux)
+(./songs/a/all_my_loving.aux) (./songs/a/alright.aux)
+(./songs/d/dirty_old_town.aux) (./songs/d/downtown.aux)
+(./songs/e/echo_beach.aux) (./songs/f/five_foot_two.aux)
+(./songs/h/hallelujah.aux) (./songs/h/houndsoflove.aux)
+(./songs/s/shoop_shoop_song.aux) (./songs/t/times_they_are_a_changin.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 205.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 205.
+Package rerunfilecheck Info: File `songbook.out' has not changed.
+(rerunfilecheck)             Checksum: D37B690DBA30905995D1673E5986A7CC;1041.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 205.
+ ) 
+Here is how much of TeX's memory you used:
+ 7971 strings out of 495059
+ 113260 string characters out of 3182030
+ 252770 words of memory out of 3000000
+ 10734 multiletter control sequences out of 15000+200000
+ 72127 words of font info for 75 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 29i,9n,35p,562b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr
+/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/shar
+e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/
+fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb
+></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/typ
+e1/public/lm/lmsy8.pfb>
+Output written on songbook.pdf (28 pages, 265278 bytes).
+PDF statistics:
+ 279 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+
