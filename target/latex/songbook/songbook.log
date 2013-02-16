@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.2.13)  15 FEB 2013 00:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.2.13)  16 FEB 2013 00:41
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1425,7 +1425,7 @@ Package: gchords
 \ascale=\dimen120
 ) (./songbook.aux (./chapters/welcome.aux)
 (./songs/a/ace_of_spades.aux) (./songs/a/all_my_loving.aux)
-(./songs/a/alright.aux) (./songs/d/dirty_old_town.aux)
+(./songs/a/alright.aux) (./songs/d/dirty_old_town.aux) (./songs/d/downtown.aux)
 (./songs/e/echo_beach.aux) (./songs/f/five_foot_two.aux)
 (./songs/h/hallelujah.aux) (./songs/h/houndsoflove.aux)
 (./songs/s/shoop_shoop_song.aux) (./songs/t/times_they_are_a_changin.aux))
@@ -1891,29 +1891,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
  []
 
 ) [11]
+\openout2 = `songs/d/downtown.aux'.
+
+ (./songs/d/downtown.tex
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+
+LaTeX Warning: Marginpar on page 12 moved.
+
+) [12
+
+
+]
 \openout2 = `songs/e/echo_beach.aux'.
 
  (./songs/e/echo_beach.tex
 
-LaTeX Warning: Marginpar on page 12 moved.
+LaTeX Warning: Marginpar on page 13 moved.
 
 
-LaTeX Warning: Marginpar on page 12 moved.
+LaTeX Warning: Marginpar on page 13 moved.
 
 
-LaTeX Warning: Marginpar on page 12 moved.
+LaTeX Warning: Marginpar on page 13 moved.
 
 
-LaTeX Warning: Marginpar on page 12 moved.
+LaTeX Warning: Marginpar on page 13 moved.
 
 
-LaTeX Warning: Marginpar on page 12 moved.
+LaTeX Warning: Marginpar on page 13 moved.
 
 
-LaTeX Warning: Marginpar on page 12 moved.
+LaTeX Warning: Marginpar on page 13 moved.
 
 
-LaTeX Warning: Marginpar on page 12 moved.
+LaTeX Warning: Marginpar on page 13 moved.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
@@ -1935,7 +1957,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-[12
+[13
 
 
 ]
@@ -1948,27 +1970,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
-) [13]
+) [14]
 \openout2 = `songs/f/five_foot_two.aux'.
 
  (./songs/f/five_foot_two.tex
 
-LaTeX Warning: Marginpar on page 14 moved.
+LaTeX Warning: Marginpar on page 15 moved.
 
 
-LaTeX Warning: Marginpar on page 14 moved.
+LaTeX Warning: Marginpar on page 15 moved.
 
 
-LaTeX Warning: Marginpar on page 14 moved.
+LaTeX Warning: Marginpar on page 15 moved.
 
 
-LaTeX Warning: Marginpar on page 14 moved.
+LaTeX Warning: Marginpar on page 15 moved.
 
 
-LaTeX Warning: Marginpar on page 14 moved.
+LaTeX Warning: Marginpar on page 15 moved.
 
 
-LaTeX Warning: Marginpar on page 14 moved.
+LaTeX Warning: Marginpar on page 15 moved.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--14
@@ -1985,7 +2007,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-) [14
+) [15
 
 
 ]
@@ -1993,66 +2015,66 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  (./songs/h/hallelujah.tex
 
-LaTeX Warning: Marginpar on page 15 moved.
+LaTeX Warning: Marginpar on page 16 moved.
 
 
-LaTeX Warning: Marginpar on page 15 moved.
+LaTeX Warning: Marginpar on page 16 moved.
 
 
-LaTeX Warning: Marginpar on page 15 moved.
+LaTeX Warning: Marginpar on page 16 moved.
 
 
-LaTeX Warning: Marginpar on page 15 moved.
+LaTeX Warning: Marginpar on page 16 moved.
 
 
-LaTeX Warning: Marginpar on page 15 moved.
+LaTeX Warning: Marginpar on page 16 moved.
 
-[15
+[16
 
 
-]) [16]
+]) [17]
 \openout2 = `songs/h/houndsoflove.aux'.
 
  (./songs/h/houndsoflove.tex
 
-LaTeX Warning: Marginpar on page 17 moved.
+LaTeX Warning: Marginpar on page 18 moved.
 
 
-LaTeX Warning: Marginpar on page 17 moved.
+LaTeX Warning: Marginpar on page 18 moved.
 
 
-LaTeX Warning: Marginpar on page 17 moved.
+LaTeX Warning: Marginpar on page 18 moved.
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 9--164
+Underfull \hbox (badness 10000) in paragraph at lines 9--165
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--164
+Underfull \hbox (badness 10000) in paragraph at lines 9--165
 
  []
 
-[17
+[18
 
 
-] [18] [19] [20]
+] [19] [20] [21]
 Chapter 3.
 \openout3 = `songbook.mtc'.
 
 \openout3 = `songbook.mtc'.
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 173--173
+Overfull \hbox (30.0pt too wide) in paragraph at lines 174--174
 [][][]  
  []
 
 (./songbook.mtc3)
-Overfull \hbox (30.0pt too wide) in paragraph at lines 173--173
+Overfull \hbox (30.0pt too wide) in paragraph at lines 174--174
 [][]  
  []
 
-[21
+[22
 
 
 ]
@@ -2060,25 +2082,25 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 173--173
 
  (./songs/s/shoop_shoop_song.tex
 
-LaTeX Warning: Marginpar on page 22 moved.
+LaTeX Warning: Marginpar on page 23 moved.
 
 
-LaTeX Warning: Marginpar on page 22 moved.
+LaTeX Warning: Marginpar on page 23 moved.
 
 
-LaTeX Warning: Marginpar on page 22 moved.
+LaTeX Warning: Marginpar on page 23 moved.
 
 
-LaTeX Warning: Marginpar on page 22 moved.
+LaTeX Warning: Marginpar on page 23 moved.
 
 
-LaTeX Warning: Marginpar on page 22 moved.
+LaTeX Warning: Marginpar on page 23 moved.
 
 
-LaTeX Warning: Marginpar on page 22 moved.
+LaTeX Warning: Marginpar on page 23 moved.
 
 
-LaTeX Warning: Marginpar on page 22 moved.
+LaTeX Warning: Marginpar on page 23 moved.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 24--25
@@ -2095,7 +2117,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-[22
+[23
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 45--46
@@ -2122,7 +2144,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
-[23]
+[24]
 Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
@@ -2137,7 +2159,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
-) [24]
+) [25]
 \openout2 = `songs/t/times_they_are_a_changin.aux'.
 
  (./songs/t/times_they_are_a_changin.tex
@@ -2146,19 +2168,19 @@ Overfull \hbox (0.56747pt too wide) in paragraph at lines 1--1
  []
 
 
-LaTeX Warning: Marginpar on page 25 moved.
+LaTeX Warning: Marginpar on page 26 moved.
 
 
-LaTeX Warning: Marginpar on page 25 moved.
+LaTeX Warning: Marginpar on page 26 moved.
 
 
-LaTeX Warning: Marginpar on page 25 moved.
+LaTeX Warning: Marginpar on page 26 moved.
 
 
-LaTeX Warning: Marginpar on page 25 moved.
+LaTeX Warning: Marginpar on page 26 moved.
 
 
-LaTeX Warning: Marginpar on page 25 moved.
+LaTeX Warning: Marginpar on page 26 moved.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 18--19
@@ -2170,7 +2192,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--32
 
  []
 
-[25
+[26
 
 
 ]
@@ -2183,7 +2205,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--58
 
  []
 
-) [26]
+) [27]
 
 Package minitoc Warning: W0093
 (minitoc)                Some "*.mld" or "*.mlo" files are missing 
@@ -2437,25 +2459,25 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the songbook.log file.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 197.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 197.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 198.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 198.
 (./songbook.aux (./chapters/welcome.aux) (./songs/a/ace_of_spades.aux)
 (./songs/a/all_my_loving.aux) (./songs/a/alright.aux)
-(./songs/d/dirty_old_town.aux) (./songs/e/echo_beach.aux)
-(./songs/f/five_foot_two.aux) (./songs/h/hallelujah.aux)
-(./songs/h/houndsoflove.aux) (./songs/s/shoop_shoop_song.aux)
-(./songs/t/times_they_are_a_changin.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 197.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 197.
+(./songs/d/dirty_old_town.aux) (./songs/d/downtown.aux)
+(./songs/e/echo_beach.aux) (./songs/f/five_foot_two.aux)
+(./songs/h/hallelujah.aux) (./songs/h/houndsoflove.aux)
+(./songs/s/shoop_shoop_song.aux) (./songs/t/times_they_are_a_changin.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 198.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
 Package rerunfilecheck Info: File `songbook.out' has not changed.
-(rerunfilecheck)             Checksum: 2D76E556182C138A3D531391C7D0AEA6;973.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 197.
+(rerunfilecheck)             Checksum: D37B690DBA30905995D1673E5986A7CC;1041.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
  ) 
 Here is how much of TeX's memory you used:
- 7947 strings out of 495059
- 112932 string characters out of 3182030
- 252017 words of memory out of 3000000
- 10719 multiletter control sequences out of 15000+200000
+ 7961 strings out of 495059
+ 113145 string characters out of 3182030
+ 252522 words of memory out of 3000000
+ 10724 multiletter control sequences out of 15000+200000
  72127 words of font info for 75 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  29i,9n,35p,562b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2469,10 +2491,10 @@ e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmsy8.pfb>
-Output written on songbook.pdf (27 pages, 261688 bytes).
+Output written on songbook.pdf (28 pages, 265278 bytes).
 PDF statistics:
- 269 PDF objects out of 1000 (max. 8388607)
- 226 compressed objects within 3 object streams
- 46 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 279 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
