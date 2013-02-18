@@ -12,8 +12,8 @@
 \contentsline {section}{\numberline {2.7}Five Foot Two / Ray Henderson}{15}{section.2.7}
 \contentsline {section}{\numberline {2.8}Hallelujah / Leonard Cohen}{16}{section.2.8}
 \contentsline {section}{\numberline {2.9}Hounds of Love / Kate Bush}{18}{section.2.9}
-\contentsline {section}{\numberline {2.10}Justified and Ancient / The KLF}{22}{section.2.10}
-\contentsline {chapter}{\numberline {3}Songs / N -- Z}{24}{chapter.3}
-\contentsline {section}{\numberline {3.1}Radio Ga Ga / Queen}{25}{section.3.1}
-\contentsline {section}{\numberline {3.2}The Shoop Shoop Song / Rudy Clark}{27}{section.3.2}
-\contentsline {section}{\numberline {3.3}The Times They Are a-Changin' / Bob Dylan}{30}{section.3.3}
+\contentsline {section}{\numberline {2.10}Justified and Ancient / The KLF}{20}{section.2.10}
+\contentsline {chapter}{\numberline {3}Songs / N -- Z}{22}{chapter.3}
+\contentsline {section}{\numberline {3.1}Radio Ga Ga / Queen}{23}{section.3.1}
+\contentsline {section}{\numberline {3.2}The Shoop Shoop Song / Rudy Clark}{25}{section.3.2}
+\contentsline {section}{\numberline {3.3}The Times They Are a-Changin' / Bob Dylan}{28}{section.3.3}
