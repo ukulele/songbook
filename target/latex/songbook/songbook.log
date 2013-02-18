@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.2.16)  16 FEB 2013 23:25
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.2.13)  18 FEB 2013 22:25
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2514,7 +2514,7 @@ e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmsy8.pfb>
-Output written on songbook.pdf (30 pages, 271591 bytes).
+Output written on songbook.pdf (30 pages, 271593 bytes).
 PDF statistics:
  294 PDF objects out of 1000 (max. 8388607)
  248 compressed objects within 3 object streams
