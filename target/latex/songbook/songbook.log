@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.2.13)  18 FEB 2013 22:54
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.2.13)  19 FEB 2013 23:43
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1433,28 +1433,28 @@ Package: gchords
 (./songs/t/times_they_are_a_changin.aux) (./songs/w/williamharker.aux))
 \openout1 = `songbook.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 138.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 139.
 
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 138.
+Package hyperref Info: Link coloring OFF on input line 139.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -1464,9 +1464,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count123
 )
-LaTeX Info: Redefining \ref on input line 138.
-LaTeX Info: Redefining \pageref on input line 138.
-LaTeX Info: Redefining \nameref on input line 138.
+LaTeX Info: Redefining \ref on input line 139.
+LaTeX Info: Redefining \pageref on input line 139.
+LaTeX Info: Redefining \nameref on input line 139.
 
 (./songbook.out) (./songbook.out)
 \@outlinefile=\write4
@@ -1586,35 +1586,35 @@ Package geometry Warning: Over-specification in `v'-direction.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 145.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 146.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 145
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 146
 .
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 145
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 146
 .
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 145.
+(Font)              <12> on input line 146.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 145.
+(Font)              <8> on input line 146.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 145.
-LaTeX Font Info:    Try loading font information for U+msa on input line 145.
+(Font)              <6> on input line 146.
+LaTeX Font Info:    Try loading font information for U+msa on input line 146.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 145.
+LaTeX Font Info:    Try loading font information for U+msb on input line 146.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -1624,7 +1624,7 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Package minitoc Info: I0024
-(minitoc)             PREPARING MINITOCS FROM songbook.toc on input line 148.
+(minitoc)             PREPARING MINITOCS FROM songbook.toc on input line 149.
 Package minitoc Info: I0033
 (minitoc)             Writing songbook.mtc1.
 \openout3 = `songbook.mtc1'.
@@ -1641,12 +1641,12 @@ Package minitoc Info: I0033
 
 Package minitoc Warning: W0008
 (minitoc)                No file songbook.lof. 
-(minitoc)                MINILOFS NOT PREPARED on input line 149.
+(minitoc)                MINILOFS NOT PREPARED on input line 150.
 
 
 Package minitoc Warning: W0009
 (minitoc)                No file songbook.lot. 
-(minitoc)                MINILOTS NOT PREPARED on input line 150.
+(minitoc)                MINILOTS NOT PREPARED on input line 151.
 
 (./songbook.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1673,18 +1673,18 @@ Chapter 2.
 \openout3 = `songbook.mtc'.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 162.
+(Font)              <10> on input line 163.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 162.
+(Font)              <7> on input line 163.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 162.
+(Font)              <5> on input line 163.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 162--162
+Overfull \hbox (30.0pt too wide) in paragraph at lines 163--163
 [][][]  
  []
 
 (./songbook.mtc2)
-Overfull \hbox (30.0pt too wide) in paragraph at lines 162--162
+Overfull \hbox (30.0pt too wide) in paragraph at lines 163--163
 [][]  
  []
 
@@ -1829,7 +1829,7 @@ LaTeX Warning: Marginpar on page 8 moved.
 LaTeX Warning: Marginpar on page 8 moved.
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 10--169
+Underfull \hbox (badness 10000) in paragraph at lines 10--170
 
  []
 
@@ -2047,13 +2047,16 @@ LaTeX Warning: Marginpar on page 18 moved.
 
 LaTeX Warning: Marginpar on page 18 moved.
 
+
+LaTeX Warning: Marginpar on page 18 moved.
+
 )
-Underfull \hbox (badness 10000) in paragraph at lines 9--175
+Underfull \hbox (badness 10000) in paragraph at lines 10--176
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--175
+Underfull \hbox (badness 10000) in paragraph at lines 10--176
 
  []
 
@@ -2114,12 +2117,12 @@ Chapter 3.
 \openout3 = `songbook.mtc'.
 
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 188--188
+Overfull \hbox (30.0pt too wide) in paragraph at lines 189--189
 [][][]  
  []
 
 (./songbook.mtc3)
-Overfull \hbox (30.0pt too wide) in paragraph at lines 188--188
+Overfull \hbox (30.0pt too wide) in paragraph at lines 189--189
 [][]  
  []
 
@@ -2140,7 +2143,7 @@ LaTeX Warning: Marginpar on page 25 moved.
 LaTeX Warning: Marginpar on page 25 moved.
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 9--193
+Underfull \hbox (badness 10000) in paragraph at lines 9--194
 
  []
 
@@ -2549,8 +2552,8 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the songbook.log file.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 215.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
 (./songbook.aux (./chapters/welcome.aux) (./songs/a/ace_of_spades.aux)
 (./songs/a/all_my_loving.aux) (./songs/a/alright.aux)
 (./songs/d/dirty_old_town.aux) (./songs/d/downtown.aux)
@@ -2559,17 +2562,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
 (./songs/i/iwillsurvive.aux) (./songs/j/justifiedandancient.aux)
 (./songs/r/radiogaga.aux) (./songs/s/shoop_shoop_song.aux)
 (./songs/t/times_they_are_a_changin.aux) (./songs/w/williamharker.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 215.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 215.
 Package rerunfilecheck Info: File `songbook.out' has not changed.
 (rerunfilecheck)             Checksum: E0E2C6EAC40E50E5802159D7729AF542;1357.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 215.
  ) 
 Here is how much of TeX's memory you used:
- 8039 strings out of 495059
- 114412 string characters out of 3182030
- 254951 words of memory out of 3000000
- 10760 multiletter control sequences out of 15000+200000
+ 8040 strings out of 495059
+ 114423 string characters out of 3182030
+ 254977 words of memory out of 3000000
+ 10761 multiletter control sequences out of 15000+200000
  72127 words of font info for 75 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  29i,9n,35p,379b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2583,7 +2586,7 @@ e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/typ
 e1/public/lm/lmsy8.pfb>
-Output written on songbook.pdf (34 pages, 284685 bytes).
+Output written on songbook.pdf (34 pages, 284575 bytes).
 PDF statistics:
  330 PDF objects out of 1000 (max. 8388607)
  280 compressed objects within 3 object streams
