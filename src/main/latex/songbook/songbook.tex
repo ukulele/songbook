@@ -15,8 +15,7 @@
 \documentclass[11pt,a4paper,oneside]{book}
 
 % PDF Metadata and Links
-\usepackage[pdftex,
-            pdfauthor={Vish Vishvanath et al},
+\usepackage[pdfauthor={Vish Vishvanath et al},
             pdftitle={The Balham Ukulele Society Songbook Project},
             pdfsubject={Basic Songbook},
             pdfkeywords={Ukulele, Balham, London},
@@ -49,8 +48,6 @@
 % distance between margin and body
 \setlength{\marginparsep}{1in}
 
-% linespacing
-\linespread{1.9}
 
 % chords
 \usepackage{gchords}
@@ -60,10 +57,22 @@
 \renewcommand\numfrets{5}         % length (no of frets) of a diagram
 
 % defines the chord above the lyrics
-\renewcommand{\upchord}[1]{%
+% \renewcommand{\upchord}[1]{%
+%   \settowidth{\cwidth}{#1}%
+%   \raisebox{15pt}{\color{Gray}#1}\hspace{-\cwidth}%
+% }
+% \linespread{1.9}
+
+%---
+
+% defines the chord within the lyrics
+\renewcommand{\upchord}[1]{[%
   \settowidth{\cwidth}{#1}%
-  \raisebox{15pt}{\color{Gray}#1}\hspace{-\cwidth}%
-}
+  \raisebox{0pt}{\color{Gray}#1}%
+]}
+\linespread{1}
+
+%---
 
 \newcommand\mychords{
   \def\chordsize{2.5mm}   % distance between two frets (and two strings)

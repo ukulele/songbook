@@ -1,0 +1,329 @@
+% Balham Ukulele Society Songbook Help
+% Master A4 version
+% Vish Vishvanath <vish.vishvanath@gmail.com>
+
+% The two lines below configure whether the document is one-sided or two-sided. Uncomment whichever you prefer.
+% \documentclass[9pt,a4paper]{book}
+\documentclass[16pt,a4paper,oneside]{book}
+
+% Beware of modifying this - you could easily break the layout.
+\usepackage[top=1.5cm, bottom=1.5cm, left=1in, right=2in, textwidth=15cm, textheight=26cm, marginparwidth=0in]{geometry}
+\usepackage{multicol}
+
+\usepackage[parfill]{parskip}
+\usepackage{amssymb}
+\usepackage{minitoc}
+
+% PDF Metadata and Links
+\usepackage[pdfauthor={Vish Vishvanath},
+            pdftitle={The Balham Ukulele Society Songbook Project: Help Document},
+            pdfsubject={Songbook Help},
+            pdfkeywords={Ukulele, Balham, London},
+            pdfproducer={Latex},
+            pdfcreator={pdflatex via Emacs, Vim, Textmate}
+            colorlinks=true
+            dfstartview=FitV
+            linkcolor=blue
+            citecolor=blue
+            urlcolor=blue]{hyperref}
+
+\usepackage{xspace}
+\newcommand{\latex}{\LaTeX\xspace}
+
+% Set up the fonts
+\usepackage{fontspec,xltxtra,xunicode}
+
+
+ % converts LaTeX specials (``quotes'' --- dashes etc.) to unicode
+\defaultfontfeatures{Mapping=tex-text}
+
+\setromanfont [Scale=1.2, Ligatures={Common}, Numbers={OldStyle}]{Minion Pro}
+\setmonofont[Scale=0.8]{Monaco} 
+
+\setlength{\marginparsep}{1.7cm}
+
+\usepackage{setspace}
+% \onehalfspacing
+\doublespacing
+
+\usepackage{gchords}
+
+% Ukulele Settings
+\renewcommand\strings{4}          % number of strings on your guitar
+\renewcommand\numfrets{5}         % length (no of frets) of a diagram
+\renewcommand{\upchord}[1]{%
+    \settowidth{\cwidth}{#1}%
+    \raisebox{9pt}{\textbf{\emph{\color{blue}#1}}}\hspace{-\cwidth}%
+}
+\newcommand\mychords{
+	\def\chordsize{5mm}   % distance between two frets (and two strings)
+	\font\fingerfont=cmr5  % font used for numbering fingers
+	% \font\fingerfont=cmmi5   % font used for numbering fingers
+	\font\namefont="Myriad Pro"    % font used for labeling of the chord
+	\font\fretposfont=cmr7  % font used for the fret position marker
+	% \def\dampsymbol{$\scriptstyle\times$} %  `damp this string' marker
+	\def\dampsymbol{{\tiny$\scriptstyle\times$}} %  `damp this string' marker
+}
+\mychords
+
+\renewcommand\yoff{3}
+\renewcommand\fingsiz{1.6}
+
+% Begin Chord definitions
+
+% Major chords
+\newcommand{\Amajor}{\marginpar{\chord{t}{4,3,2,2}{A}}}
+\newcommand{\Bmajor}{\marginpar{\chord{t}{4,3,2,2}{B}}}
+\newcommand{\Cmajor}{\marginpar{\chord{t}{o,o,o,3}{C}}}
+\newcommand{\Dmajor}{\marginpar{\chord{t}{2,2,2,n}{D}}}
+\newcommand{\Emajor}{\marginpar{\chord{t}{4,4,4,2}{E}}}
+\newcommand{\Fmajor}{\marginpar{\chord{t}{4,3,2,2}{F}}}
+\newcommand{\Gmajor}{\marginpar{\chord{t}{o,2,3,2}{G}}}
+
+% Minor chords
+\newcommand{\Aminor}{\marginpar{\chord{t}{2,o,o,o}{A\large{m}}}}
+\newcommand{\Bminor}{\marginpar{\chord{t}{3,5,2,1}{B\large{m}}}}
+\newcommand{\Cminor}{\marginpar{\chord{t}{3,5,2,1}{C\large{m}}}}
+\newcommand{\Dminor}{\marginpar{\chord{t}{2,2,1,o}{D\large{m}}}}
+\newcommand{\Eminor}{\marginpar{\chord{t}{3,5,2,1}{E\large{m}}}}
+\newcommand{\Fminor}{\marginpar{\chord{t}{3,5,2,1}{F\large{m}}}}
+\newcommand{\Gminor}{\marginpar{\chord{t}{3,5,2,1}{G\large{m}}}}
+
+% Seventh chords
+\newcommand{\CmajorSeven}{\marginpar{\chord{t}{o,o,o,2}{C\large{maj7}}}}
+
+\newcommand{\EminorSeven}{\marginpar{\chord{t}{o,2,o,2}{E\large{m}7}}}
+
+\newcommand{\Aseven}{\marginpar{\chord{t}{o,1,o,o}{A\large{7}}}}
+\newcommand{\Cseven}{\marginpar{\chord{t}{o,o,o,1}{C\large{7}}}}
+\newcommand{\Dseven}{\marginpar{\chord{t}{2,2,3,3}{D\large{7}}}}
+\newcommand{\Eseven}{\marginpar{\chord{t}{1,2,o,2}{E\large{7}}}}
+\newcommand{\Gseven}{\marginpar{\chord{t}{o,2,1,2}{G\large{7}}}}
+
+% Other chords
+\newcommand{\Bflat}{\marginpar{\chord{t}{3,2,1,1}{B$\flat$}}}
+
+\newcommand{\BflatDimishedSeven}{\marginpar{\chord{t}{3,2,1,1}{B$\flat$\large{dim7}}}}
+
+\newcommand{\Caugmented}{\marginpar{\chord{t}{1,o,o,3}{C+}}}
+\newcommand{\Gaugmented}{\marginpar{\chord{t}{4,3,3,2}{G+}}}
+
+% End Chord definitions
+
+% ------------------- Title and Author -----------------------------
+\title{Help: Adding to the Balham Ukulele Society Songbook}
+\author{Vish Vishvanath}
+\begin{document}
+
+\pagenumbering{roman}
+\pagestyle{plain}
+\newgeometry{top=2cm, bottom=2cm, left=2in, right=2in, textwidth=17cm, 
+			 textheight=26cm, marginparwidth=0in, nofoot, centering}
+\maketitle
+\restoregeometry
+
+\dominitoc
+\dominilof
+\dominilot
+\tableofcontents
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\chapter{The Basics}\label{ch:the_basics}
+\section{The Songbook} % (fold)
+\label{sec:the_songbook}
+
+\paragraph{Introduction} % (fold)
+\label{par:introduction}
+
+The songbook is typeset with the \latex system, which is used in academic and scientific circles to create large and complex documents such as mathematical formulas and textbooks, theses, reports and papers. It automates difficult tasks such as footnotes, indexing, content tables and cross-referencing, while providing beautiful, professional-quality typesetting.
+
+It is free software, in heavy use since 1978, so there is plenty of documentation, help and tips available on the Internet. Plus it is ideal for creating a songbook that many people can contribute to without having to fight with formatting in Microsoft Word, for example.
+
+\latex allows us to separate the content from the design so that we may end up with not just one songbook, but several, all centered around the requirements of ukulele players. We have one with small fonts designed to be carried easily, or one with large fonts to be shared in, say, a dimly-lit pub.
+
+All you will need to create and edit songs is a text editor, such as Notepad on Windows, or TextEdit on the Mac.
+
+% paragraph introduction (end)
+
+\paragraph{Adding to the song book} % (fold)
+\label{par:adding_to_the_song_book}
+
+Every song page consists of three main parts:
+
+\begin{description}
+	\item[Header] \hfill \\ This contains the song title and author/performer, and perhaps a brief tip.
+	\item[Chord Guide] \hfill \\ These are the chords in Tablature form running vertically down the side.
+	\item[Lyrics] \hfill \\ The words, with the Chord's name dotted above at the correct points.
+\end{description}
+
+% section balham_ukulele_society (end)
+
+\section{Breakdown of a song} % (fold)
+\label{sec:breakdown_of_a_song}
+
+\paragraph{Example song} % (fold)
+\label{par:example_song}
+
+We will use Leonard Cohen's \emph{Hallelujah} as an example.
+
+% paragraph hallelujah (end)
+
+Here is the raw code of the Hallelujah file, up to the first chorus.
+
+\begin{verbatim}
+	\section{Hallelujah / Leonard Cohen}\label{sec:hallelujah}
+	
+	\Cmajor
+	\Fmajor
+	\Gmajor
+	\Aminor
+	\Eseven
+
+	\upchord{C}Intro:\upchord{Am}\hrulefill\upchord{C}\hrulefill\upchord{Am}
+
+	I \upchord{C}heard there was a \upchord{Am}secret chord
+
+	that \upchord{C}David played and it \upchord{Am}pleased the lord
+
+	but \upchord{F}you don't really \upchord{G}care for music 
+	\upchord{C}do you \upchord{G}
+
+	Well it \upchord{C}goes like this the \upchord{F}fourth, 
+	the \upchord{G}fifth a the \upchord{Am}minor fall and the \upchord{F}major lift
+
+	the \upchord{G}baffled king \upchord{E7}composing \upchord{Am}hallelujah\\
+
+	Halle-\upchord{F}lujah, Halle-\upchord{Am}lujah, Halle-\upchord{F}lujah, 
+	Hallelu-\upchord{C}\upchord{G}jah	
+\end{verbatim}
+
+This might seem difficult to understand, but let's break it down into its three parts.
+
+
+\subsection{Header} % (fold)
+\label{sub:header}
+
+The song begins with the header code. It's one line and looks like this:
+
+\begin{verbatim}
+	\section{Hallelujah / Leonard Cohen}\label{sec:hallelujah}
+\end{verbatim}
+
+You can see that the title and author are surrounded by curly brackets, and begin with an instruction called \texttt{$\backslash$section}, and is followed by another instruction \texttt{$\backslash$label}. The \texttt{$\backslash$section} simply means that we are beginning a new section, or a song in this case, and the \texttt{$\backslash$label} is a bookmark that the system uses later to create index points, or tables of contents. Inside the \texttt{$\backslash$label} is \texttt{sec:hallelujah} which means section and the song name. Do not use capitals or spaces in the song name.
+
+% subsection header (end)
+
+\subsection{Chord Guide} % (fold)
+\label{sub:chord_guide}
+	
+The chords appear down the side of a page and all the chords in the song should appear here. The code looks like this:
+
+\begin{verbatim}
+	\Cmajor
+	\Fmajor
+	\Gmajor
+	\Aminor
+	\Eseven
+\end{verbatim}
+
+Which produces these chords:\\
+\hrule
+\hfill	\chord{t}{o,o,o,3}{C}
+\hfill	\chord{t}{4,3,2,2}{F}
+\hfill	\chord{t}{o,2,3,2}{G}
+\hfill	\chord{t}{2,o,o,o}{A\large{m}}
+\hfill	\chord{t}{1,2,o,2}{E\large{7}}
+
+% subsection chord_guide (end)
+
+\subsection{Lyrics} % (fold)
+\label{sub:lyrics}
+
+There are a lot of commands scattered through this, which makes it look confusing, but a short explanation will help. We need to know which chords to play when singing, and when to play them. Above key points in the lyrics are the chord names, and the command \texttt{$\backslash$upchord} is used to place the chord above a specific point in the lyrics.
+
+In the songbook, the first line:
+
+I \upchord{C}heard there was a \upchord{Am}secret chord
+
+Is created by the code:
+
+\begin{verbatim}
+	I \upchord{C}heard there was a \upchord{Am}secret chord
+\end{verbatim}
+
+We place the \texttt{$\backslash$upchord} instruction just before the word we want it to appear over, in this case, above \emph{heard} and \emph{secret}. We can move the C chord to be above \emph{there} if we want to, by simply moving the \texttt{$\backslash$upchord} command:
+
+\begin{verbatim}
+	I heard \upchord{C}there was a \upchord{Am}secret chord
+\end{verbatim}
+
+Which gives us this:
+
+I heard \upchord{C}there was a \upchord{Am}secret chord
+
+Add blank lines in between lyrics lines to add space and spread the song out so that it is easier to read.
+
+
+% subsection lyrics (end)
+
+\subsection{Conclusion} % (fold)
+\label{sub:conclusion}
+
+This shows you how to create your own song file. Once you have done this, it should be saved in the \emph{songs} folder, under another folder titled with the first letter of the song. (Ignore \emph{The} as the first word of a title).
+
+Or, you can simply email the song file to a member of the songbook group, who will handle it from there.
+
+% subsection conclusion (end)
+
+% section breakdown_of_a_song (end)
+
+\chapter{Technical: getting the code} % (fold)
+\label{ch:technical_getting_the_code}
+
+\paragraph{Warning} % (fold)
+\label{par:warning}
+
+This section is for very IT-literate people, or those serious about contributing to the songbook. You will need the following software:
+
+\begin{itemize}
+	\item[\textbf{Git}]Get started here: \url{http://help.github.com/set-up-git-redirect}
+	\item[\textbf{\latex}]Get started here: \url{http://www.latex-project.org/ftp.html}
+	\item[\textbf{Java}]Get started here: \url{http://www.java.com/inc/BrowserRedirect1.jsp?locale=en/ftp.html}
+	\item[\textbf{Maven}]Get started here: \url{http://maven.apache.org/download.cgi}
+\end{itemize}
+
+You should have at least Tex 2012 installed for everything to work properly. A good text editor is essential, and once Java + Maven are installed, follow the instructions in the next section.
+
+\section{Obtaining the code} % (fold)
+\label{sec:obtaining_the_code}
+
+All the code for the project is held under version control. This means that all changes are recorded and can be rolled back as required. The version control system we use is called \texttt{git} and the central repository is held at \texttt{github.com}. Github allows anyone to make their own copy of the central repository and make changes to it, and then, if desired, hand some of those changes back to the owners of the central repository.
+
+The songbook repo is here: \url{https://github.com/ukulele/songbook}
+
+You will need a github account, and then you should fork the repository and add the master as your own upstream remote - instructions: \url{http://help.github.com/fork-a-repo/}
+
+To build the songbook, enter the songbook directory and run the command:
+
+\begin{verbatim}
+	mvn latex:latex
+\end{verbatim}
+
+On first run, Maven will go and fetch all the dependencies required to build the document and run \latex for you, and build the PDF in the \texttt{<root>/target} directory
+
+
+You should add and commit songs into your own repository, and then send us individual songs as pull requests. We will accept them if deemed correct and merge them into our repository.
+
+For more complicated setups, you should come and speak to us.
+
+% subsection obtaining_the_code (end)
+
+% paragraph warning (end)
+
+% section technical_getting_the_code (end)
+
+\end{document}
+\end
+
