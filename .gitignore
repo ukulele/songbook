@@ -1,1 +1,9 @@
 /target/
+*.aux
+*.mt*
+*.log
+*.out
+*.pdf
+*.gz
+*.maf
+*.toc
