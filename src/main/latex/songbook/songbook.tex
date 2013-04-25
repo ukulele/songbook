@@ -31,9 +31,22 @@
 % Beware of modifying this - you could easily break the layout.
 \usepackage[top=1.5cm, bottom=1in, left=1in, right=2in, textwidth=15cm, textheight=26cm, marginparwidth=0in]{geometry}
 
+% Set up the fonts if you know what you're doing
+% \usepackage{fontspec,xltxtra,xunicode}
+% \defaultfontfeatures{Mapping=tex-text} % converts LaTeX specials (``quotes'' --- dashes etc.) to unicode
+% \setromanfont [Scale=0.8, Ligatures={Common}, Numbers={OldStyle}]{Minion Pro}
+\renewcommand{\rmdefault}{ppl} % rm
+\linespread{1.05}        % Palatino needs more leading
+\usepackage[scaled]{helvet} % ss
+\usepackage{courier} % tt
+\usepackage{euler} % math
+%\usepackage{eulervm} % a better implementation of the euler package (not in gwTeX)
+\normalfont
+\usepackage[T1]{fontenc}
+
 \usepackage[parfill]{parskip}
 \usepackage{amssymb}
-\usepackage{lmodern}
+% \usepackage{lmodern}
 
 % Mini tables of content
  \usepackage{minitoc}
@@ -48,7 +61,6 @@
 % distance between margin and body
 \setlength{\marginparsep}{1in}
 
-
 % chords
 \usepackage{gchords}
 
@@ -57,20 +69,20 @@
 \renewcommand\numfrets{5}         % length (no of frets) of a diagram
 
 % defines the chord above the lyrics
-% \renewcommand{\upchord}[1]{%
-%   \settowidth{\cwidth}{#1}%
-%   \raisebox{15pt}{\color{Gray}#1}\hspace{-\cwidth}%
-% }
-% \linespread{1.9}
+\renewcommand{\upchord}[1]{%
+  \settowidth{\cwidth}{#1}%
+  \raisebox{15pt}{\color{Gray}#1}\hspace{-\cwidth}%
+}
+\linespread{1.9}
 
 %---
 
-% defines the chord within the lyrics
-\renewcommand{\upchord}[1]{[%
-  \settowidth{\cwidth}{#1}%
-  \raisebox{0pt}{\color{Gray}#1}%
-]}
-\linespread{1}
+% % defines the chord within the lyrics
+% \renewcommand{\upchord}[1]{[%
+%   \settowidth{\cwidth}{#1}%
+%   \raisebox{0pt}{\color{Gray}#1}%
+% ]}
+% \linespread{1}
 
 %---
 
@@ -142,6 +154,8 @@
 
 % End Chord definitions
 
+
+
 % ------------------- Title and Author -----------------------------
 \title{Balham Ukulele Society Songbook}
 \author{Maintainer: Vish Vishvanath}
@@ -205,7 +219,7 @@
 \include{songs/t/times_they_are_a_changin}
 \include{songs/w/williamharker}
 \include{songs/w/wutheringheights}
-\include{songs/y/ymca}
+% \include{songs/y/ymca}
 %% END SONGS NZ
 
 \nolinenumbers
