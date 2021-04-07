@@ -1,42 +1,53 @@
-%% The Balham Ukulele Society Songbook Project
+%% The Ukulele Songbook Project
 %% Basic Songbook
 %% Master A4 version
 %% 
-%% Copyright (C) 2013 Balham Ukulele Society
+%% Copyright (C) 2013 Ukulele Songbook Project
 %% Maintainer Vish Vishvanath <ukulele@tfto.com>--author-maintained. 
 %% 
-%% The Balham Ukulele Society Songbooks project by Vish Vishvanath, Matt Gunning, Alyn Gwyndaf, Charlie Ullman, et al
+%% The Ukulele Songbook project by Vish Vishvanath, Matt Gunning, Alyn Gwyndaf, Charlie Ullman, et al
 %% is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 %%
 %% http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
 %%
 \def\fileversion{1.0} \def\filedate{12/02/2013} 
 
-\documentclass[11pt,a4paper,oneside]{book}
-
-% PDF Metadata and Links
-\usepackage[pdfauthor={Vish Vishvanath et al},
-            pdftitle={The Balham Ukulele Society Songbook Project},
+\documentclass[10pt,a4paper,oneside]{book}
+\usepackage{fontspec}
+    \setmainfont{Minion Pro}
+    
+\usepackage{ifpdf}
+\ifpdf 
+    \usepackage[pdftex]{graphicx}   % to include graphics
+    \pdfcompresslevel=9 
+    \usepackage[pdftex,     % sets up hyperref to use pdftex driver
+            plainpages=false,   % allows page i and 1 to exist in the same document
+            breaklinks=true,    % link texts can be broken at the end of line
+            pdftitle={Secret Squirrel Songbook Project},
             pdfsubject={Basic Songbook},
             pdfkeywords={Ukulele, Balham, London},
             pdfproducer={Latex},
+            pdfauthor=Vish Vishvanath
             pdfcreator={pdflatex via Emacs, Vim, Textmate}
             colorlinks=true
             dfstartview=FitV
             linkcolor=blue
             citecolor=blue
             urlcolor=blue]{hyperref}
-
+    \usepackage{thumbpdf}
+\else 
+    \usepackage{graphicx}       % to include graphics
+    \usepackage{hyperref}       % to simplify the use of \href
+\fi 
 
 % Beware of modifying this - you could easily break the layout.
 \usepackage[top=1.5cm, bottom=1in, left=1in, right=2in, textwidth=15cm, textheight=26cm, marginparwidth=0in]{geometry}
 
 \usepackage[parfill]{parskip}
 \usepackage{amssymb}
-\usepackage{lmodern}
 
 % Mini tables of content
- \usepackage{minitoc}
+% \usepackage{minitoc}
 
 % add some colour
 \usepackage[usenames,dvipsnames]{xcolor}
@@ -57,25 +68,25 @@
 \renewcommand\numfrets{5}         % length (no of frets) of a diagram
 
 % defines the chord above the lyrics
-% \renewcommand{\upchord}[1]{%
-%   \settowidth{\cwidth}{#1}%
-%   \raisebox{15pt}{\color{Gray}#1}\hspace{-\cwidth}%
-% }
-% \linespread{1.9}
+ \renewcommand{\upchord}[1]{%
+   \settowidth{\cwidth}{#1}%
+   \raisebox{15pt}{\color{Gray}#1}\hspace{-\cwidth}%
+ }
+ \linespread{1.9}
 
 %---
 
 % defines the chord within the lyrics
-\renewcommand{\upchord}[1]{[%
-  \settowidth{\cwidth}{#1}%
-  \raisebox{0pt}{\color{Gray}#1}%
-]}
-\linespread{1}
+%\renewcommand{\upchord}[1]{[%
+%  \settowidth{\cwidth}{#1}%
+%  \raisebox{0pt}{\color{Gray}#1}%
+%]}
+%\linespread{1}
 
 %---
 
 \newcommand\mychords{
-  \def\chordsize{2.5mm}   % distance between two frets (and two strings)
+  \def\chordsize{2mm}   % distance between two frets (and two strings)
   \font\fingerfont=cmr5  % font used for numbering fingers
   \font\fretposfont=cmr7  % font used for the fret position marker
   \def\dampsymbol{{\tiny$\scriptstyle\times$}} %  `damp this string' marker
@@ -107,6 +118,12 @@
 \newcommand{\FsharpMajor}{\marginpar{\chord{t}{3,1,2,1}{F$\sharp$}}}
 \newcommand{\Gmajor}{\marginpar{\chord{t}{o,2,3,2}{G}}}
 \newcommand{\GsharpMajor}{\marginpar{\chord{t}{5,3,4,3}{G$\sharp$}}}
+
+% Inversions
+\newcommand{\CmajorFirst}{\marginpar{\chord{t}{5,4,3,3}{C}}}
+\newcommand{\DmajorFirst}{\marginpar{\chord{4}{4,3,2,2}{D}}}
+
+
 
 % Minor chords
 \newcommand{\Aminor}{\marginpar{\chord{t}{2,o,o,o}{A\large{m}}}}
@@ -140,24 +157,35 @@
 
 \newcommand{\Gaugmented}{\marginpar{\chord{t}{4,3,3,2}{G+}}}
 
+\newcommand{\Afive}{\marginpar{\chord{t}{x,x,o,o}{A5}}}
+\newcommand{\Bfive}{\marginpar{\chord{t}{x,x,2,2}{B5}}}
+\newcommand{\CsharpFive}{\marginpar{\chord{t}{x,x,4,4}{C$\sharp${5}}}}
+
+\newcommand{\FsharpMinorSevenNoFive}{\marginpar{\chord{4}{x,3,2,4}{F$\sharp$m7}}}
+\newcommand{\EMinorSevenNoFive}{\marginpar{\chord{2}{x,3,2,4}{Em7}}}
+\newcommand{\DMinorSevenNoFive}{\marginpar{\chord{t}{x,3,2,4}{Dm7}}}
+\newcommand{\CsharpMinorSevenNoFive}{\marginpar{\chord{t}{x,1,o,2}{C$\sharp$m7}}}
+
+
+
 % End Chord definitions
 
 % ------------------- Title and Author -----------------------------
-\title{Balham Ukulele Society Songbook}
+\title{Secret Squirrel Songbook}
 \author{Maintainer: Vish Vishvanath}
 \begin{document}
 
 \pagenumbering{roman}
-\pagestyle{plain}
+%\pagestyle{plain}
 \newgeometry{top=2cm, bottom=2cm, left=2in, right=2in, textwidth=17cm, 
        textheight=26cm, marginparwidth=0in, nofoot, centering}
-\maketitle
+%\maketitle
 \restoregeometry
 
-\dominitoc
-\dominilof
-\dominilot
-\tableofcontents
+%\dominitoc
+%\dominilof
+%\dominilot
+%\tableofcontents
 
 \pagenumbering{arabic}
 \setcounter{page}{1}
@@ -168,7 +196,7 @@
 
 \chapter{Songs / A -- M}
 \label{ch:songs_a_m}
-\minitoc
+%\minitoc
 \Large
 \linenumbers
 \modulolinenumbers[2]
@@ -177,6 +205,7 @@
 \include{songs/a/ace_of_spades}
 \include{songs/a/all_my_loving}
 \include{songs/a/alright}
+\include{songs/c/christmas_wrapping}
 \include{songs/d/dirty_old_town}
 \include{songs/d/downtown}
 \include{songs/e/echo_beach}
@@ -193,12 +222,12 @@
 
 \chapter{Songs / N -- Z} % (fold)
 \label{cha:songs_n_z}
-\minitoc
+%\minitoc
 \Large
 \linenumbers
 \modulolinenumbers[2]
 
-%% START SONGS NZ
+% START SONGS NZ
 \include{songs/r/radiogaga}
 \include{songs/s/shoop_shoop_song}
 \include{songs/s/sloopjohnb}
@@ -206,22 +235,22 @@
 \include{songs/w/williamharker}
 \include{songs/w/wutheringheights}
 \include{songs/y/ymca}
-%% END SONGS NZ
+% END SONGS NZ
 
 \nolinenumbers
 % chapter songs_n_z (end)
 
-% \chapter{Appendix A: New Songs} % (fold)
-% \label{prt:appendix_a}
+ \chapter{Appendix A: New Songs} % (fold)
+ \label{prt:appendix_a}
 % \minitoc
-% \Large
-% \linenumbers
-% \modulolinenumbers[2]
-%% START SONGS APPENDIX_A
-%
-%% END SONGS APPENDIX_A
-% \nolinenumbers
-% chapter appendix_a (end)
+ \Large
+ \linenumbers
+ \modulolinenumbers[2]
+% START SONGS APPENDIX_A
+
+% END SONGS APPENDIX_A
+ \nolinenumbers
+ %chapter appendix_a (end)
 
 \end{document}
 \end
