@@ -43,6 +43,8 @@ Then
 
 To build the PDF in `<root>/target/site/songbook/songbook.pdf`
 
+And a help document in `<root>/target/site/help/help.pdf`
+
 ----------------------------------------
 
 The Ukulele Songbook project by Vish Vishvanath, Matt Gunning, Alyn Gwyndaf, Charlie Ullman, et al is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
