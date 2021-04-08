@@ -12,7 +12,7 @@
 %%
 \def\fileversion{1.0} \def\filedate{12/02/2013} 
 
-\documentclass[10pt,a4paper,oneside]{book}
+\documentclass[12pt,a4paper,oneside]{book}
 \usepackage{fontspec}
     \setmainfont{Minion Pro}
     
@@ -68,20 +68,20 @@
 \renewcommand\numfrets{5}         % length (no of frets) of a diagram
 
 % defines the chord above the lyrics
- \renewcommand{\upchord}[1]{%
-   \settowidth{\cwidth}{#1}%
-   \raisebox{15pt}{\color{Gray}#1}\hspace{-\cwidth}%
- }
- \linespread{1.9}
+% \renewcommand{\upchord}[1]{%
+%   \settowidth{\cwidth}{#1}%
+%   \raisebox{15pt}{\color{Gray}#1}\hspace{-\cwidth}%
+% }
+% \linespread{1.9}
 
 %---
 
 % defines the chord within the lyrics
-%\renewcommand{\upchord}[1]{[%
-%  \settowidth{\cwidth}{#1}%
-%  \raisebox{0pt}{\color{Gray}#1}%
-%]}
-%\linespread{1}
+\renewcommand{\upchord}[1]{[%
+  \settowidth{\cwidth}{#1}%
+  \raisebox{0pt}{\color{Gray}#1}%
+]}
+\linespread{1}
 
 %---
 
@@ -108,7 +108,7 @@
 \newcommand{\CmajorFirstInv}{\marginpar{\chord{t}{5,4,3,3}{C(1st)}}}
 \newcommand{\CsharpMajor}{\marginpar{\chord{t}{1,1,1,4}{C$\sharp$}}}
 \newcommand{\DflatMajor}{\marginpar{\chord{t}{1,1,1,4}{D$\flat$}}}
-\newcommand{\Dmajor}{\marginpar{\chord{t}{2,2,2,o}{D}}}
+\newcommand{\Dmajor}{\marginpar{\chord{t}{2,2,2,0}{D}}}
 \newcommand{\DmajorEasy}{\marginpar{\chord{t}{2,2,2,5}{D}}}
 \newcommand{\DsharpMajor}{\marginpar{\chord{t}{3,3,3,6}{D$\sharp$}}}
 \newcommand{\EflatMajor}{\marginpar{\chord{t}{3,3,3,6}{E$\flat$}}}
@@ -202,18 +202,24 @@
 \modulolinenumbers[2]
 
 %% START SONGS AM
-\include{songs/a/ace_of_spades}
-\include{songs/a/all_my_loving}
-\include{songs/a/alright}
-\include{songs/c/christmas_wrapping}
-\include{songs/d/dirty_old_town}
-\include{songs/d/downtown}
-\include{songs/e/echo_beach}
+\include{songs/a/500miles}
+\include{songs/b/barenecessities}
+\include{songs/c/crocodilerock}
+\include{songs/d/dancinginthedark}
+\include{songs/d/dancingqueen}
+\include{songs/d/daydreambeliever}
+%\include{songs/a/ace_of_spades}
+%\include{songs/a/all_my_loving}
+%\include{songs/a/alright}
+%\include{songs/c/christmas_wrapping}
+%\include{songs/d/dirty_old_town}
+%\include{songs/d/downtown}
+%\include{songs/e/echo_beach}
 \include{songs/f/five_foot_two}
-\include{songs/h/hallelujah}
-\include{songs/h/houndsoflove}
-\include{songs/i/iwillsurvive}
-\include{songs/j/justifiedandancient}
+%\include{songs/h/hallelujah}
+%\include{songs/h/houndsoflove}
+%\include{songs/i/iwillsurvive}
+%\include{songs/j/justifiedandancient}
 
 %% END SONGS AM
 
@@ -228,13 +234,13 @@
 \modulolinenumbers[2]
 
 % START SONGS NZ
-\include{songs/r/radiogaga}
+%\include{songs/r/radiogaga}
 \include{songs/s/shoop_shoop_song}
 \include{songs/s/sloopjohnb}
-\include{songs/t/times_they_are_a_changin}
-\include{songs/w/williamharker}
-\include{songs/w/wutheringheights}
-\include{songs/y/ymca}
+%\include{songs/t/times_they_are_a_changin}
+%\include{songs/w/williamharker}
+%\include{songs/w/wutheringheights}
+%\include{songs/y/ymca}
 % END SONGS NZ
 
 \nolinenumbers
