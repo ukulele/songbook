@@ -65,7 +65,7 @@
 
 % Ukulele Settings
 \renewcommand\strings{4}          % number of strings on your guitar
-\renewcommand\numfrets{5}         % length (no of frets) of a diagram
+\renewcommand\numfrets{7}         % length (no of frets) of a diagram
 
 % defines the chord above the lyrics
 % \renewcommand{\upchord}[1]{%
@@ -185,25 +185,27 @@
 %\dominitoc
 %\dominilof
 %\dominilot
-%\tableofcontents
+\tableofcontents
 
 \pagenumbering{arabic}
 \setcounter{page}{1}
 
 % \LARGE
 
-\include{chapters/welcome}
+%\include{chapters/welcome}
 
-\chapter{Songs / A -- M}
-\label{ch:songs_a_m}
+%\chapter{Songs / A -- M}
+%\label{ch:songs_a_m}
 %\minitoc
-\Large
-\linenumbers
-\modulolinenumbers[2]
+%\Large
+%\linenumbers
+%\modulolinenumbers[2]
 
 %% START SONGS AM
 \include{songs/a/500miles}
 \include{songs/b/barenecessities}
+\include{songs/b/boysofsummer}
+\include{songs/c/cakebytheocean}
 \include{songs/c/crocodilerock}
 \include{songs/d/dancinginthedark}
 \include{songs/d/dancingqueen}
@@ -215,6 +217,7 @@
 %\include{songs/d/dirty_old_town}
 %\include{songs/d/downtown}
 %\include{songs/e/echo_beach}
+\include{songs/f/fidelity}
 \include{songs/f/five_foot_two}
 %\include{songs/h/hallelujah}
 %\include{songs/h/houndsoflove}
@@ -228,18 +231,21 @@
 \nolinenumbers
 % chapter songs_a_m (end)
 
-\chapter{Songs / N -- Z} % (fold)
-\label{cha:songs_n_z}
+%\chapter{Songs / N -- Z} % (fold)
+%\label{cha:songs_n_z}
 %\minitoc
-\Large
-\linenumbers
-\modulolinenumbers[2]
+%\Large
+%\linenumbers
+%\modulolinenumbers[2]
 
 % START SONGS NZ
 \include{songs/p/pianoman}
 %\include{songs/r/radiogaga}
+\include{songs/s/satelliteoflove}
 \include{songs/s/shoop_shoop_song}
 \include{songs/s/sloopjohnb}
+\include{songs/s/shutupanddancewithme}
+\include{songs/s/songtothesiren}
 %\include{songs/t/times_they_are_a_changin}
 %\include{songs/w/williamharker}
 %\include{songs/w/wutheringheights}
@@ -249,16 +255,16 @@
 \nolinenumbers
 % chapter songs_n_z (end)
 
- \chapter{Appendix A: New Songs} % (fold)
- \label{prt:appendix_a}
+% \chapter{Appendix A: New Songs} % (fold)
+% \label{prt:appendix_a}
 % \minitoc
- \Large
- \linenumbers
- \modulolinenumbers[2]
+% \Large
+% \linenumbers
+% \modulolinenumbers[2]
 % START SONGS APPENDIX_A
 
 % END SONGS APPENDIX_A
- \nolinenumbers
+% \nolinenumbers
  %chapter appendix_a (end)
 
 \end{document}
