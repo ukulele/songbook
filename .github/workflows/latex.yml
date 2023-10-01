@@ -9,7 +9,9 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v3
         with:
+          work_in_root_file_dir: true
           root_file: src/main/latex/songbook.tex
+
       - name: Upload PDF file
         uses: actions/upload-artifact@v3
         with:
