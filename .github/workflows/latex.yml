@@ -6,14 +6,18 @@ jobs:
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v3
+      - name: Bump version and push tag
+        id: tag_version
+        uses: mathieudutour/github-tag-action@v6.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v3
         with:
           work_in_root_file_dir: true
           root_file: src/main/latex/songbook/songbook.tex
-
-      - name: Upload PDF file
-        uses: actions/upload-artifact@v3
+      - name: Release
+        uses: softprops/action-gh-release@v1
         with:
-          name: PDF
-          path: src/main/latex/songbook/songbook.pdf
+          tag_name: ${{ steps.tag_version.outputs.new_tag }}
+          files: src/main/latex/songbook/songbook.pdf
