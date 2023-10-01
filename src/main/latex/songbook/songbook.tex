@@ -1,25 +1,27 @@
 %% The Ukulele Songbook Project
 %% Basic Songbook
 %% Master A4 version
-%% 
+%%
 %% Copyright (C) 2013 Ukulele Songbook Project
-%% Maintainer Vish Vishvanath <ukulele@tfto.com>--author-maintained. 
-%% 
+%% Maintainer Vish Vishvanath <ukulele@tfto.com>--author-maintained.
+%%
 %% The Ukulele Songbook project by Vish Vishvanath, Matt Gunning, Alyn Gwyndaf, Charlie Ullman, et al
 %% is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 %%
 %% http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
 %%
-\def\fileversion{1.0} \def\filedate{12/02/2013} 
+\def\fileversion{1.0} \def\filedate{12/02/2013}
 
 \documentclass[12pt,a4paper,oneside]{book}
-\usepackage{fontspec}
-    \setmainfont{Minion Pro}
-    
+
+%We want Palatino Font
+\usepackage{tgpagella} % text only
+\usepackage{mathpazo}  % math & text
+
 \usepackage{ifpdf}
-\ifpdf 
-    \usepackage[pdftex]{graphicx}   % to include graphics
-    \pdfcompresslevel=9 
+\ifpdf%
+  \usepackage[pdftex]{graphicx}% to include graphics
+    \pdfcompresslevel=9
     \usepackage[pdftex,     % sets up hyperref to use pdftex driver
             plainpages=false,   % allows page i and 1 to exist in the same document
             breaklinks=true,    % link texts can be broken at the end of line
@@ -35,10 +37,10 @@
             citecolor=blue
             urlcolor=blue]{hyperref}
     \usepackage{thumbpdf}
-\else 
+\else
     \usepackage{graphicx}       % to include graphics
     \usepackage{hyperref}       % to simplify the use of \href
-\fi 
+\fi
 
 % Beware of modifying this - you could easily break the layout.
 \usepackage[top=1.5cm, bottom=1in, left=1in, right=2in, textwidth=15cm, textheight=26cm, marginparwidth=0in]{geometry}
@@ -59,13 +61,12 @@
 % distance between margin and body
 \setlength{\marginparsep}{1in}
 
-
 % chords
 \usepackage{gchords}
 
 % Ukulele Settings
 \renewcommand\strings{4}          % number of strings on your guitar
-\renewcommand\numfrets{7}         % length (no of frets) of a diagram
+\renewcommand\numfrets{5}         % length (no of frets) of a diagram
 
 % defines the chord above the lyrics
 % \renewcommand{\upchord}[1]{%
@@ -73,7 +74,6 @@
 %   \raisebox{15pt}{\color{Gray}#1}\hspace{-\cwidth}%
 % }
 % \linespread{1.9}
-
 %---
 
 % defines the chord within the lyrics
@@ -81,17 +81,17 @@
   \settowidth{\cwidth}{#1}%
   \raisebox{0pt}{\color{Gray}#1}%
 ]}
-\linespread{1}
+\linespread{1.2}
 
 %---
 
 \newcommand\mychords{
-  \def\chordsize{2mm}   % distance between two frets (and two strings)
+  \def\chordsize{3.1mm}   % distance between two frets (and two strings)
   \font\fingerfont=cmr5  % font used for numbering fingers
   \font\fretposfont=cmr7  % font used for the fret position marker
   \def\dampsymbol{{\tiny$\scriptstyle\times$}} %  `damp this string' marker
 }
-\mychords
+\mychords%
 
 \renewcommand\yoff{3}
 \renewcommand\fingsiz{1.6}
@@ -102,18 +102,24 @@
 \newcommand{\AflatMajor}{\marginpar{\chord{t}{5,3,4,3}{A$\flat$}}}
 \newcommand{\Amajor}{\marginpar{\chord{t}{2,1,o,o}{A}}}
 \newcommand{\AsharpMajor}{\marginpar{\chord{t}{3,2,1,1}{A$\sharp$}}}
+
 \newcommand{\BflatMajor}{\marginpar{\chord{t}{3,2,1,1}{B$\flat$}}}
 \newcommand{\Bmajor}{\marginpar{\chord{t}{4,3,2,2}{B}}}
+
 \newcommand{\Cmajor}{\marginpar{\chord{t}{o,o,o,3}{C}}}
-\newcommand{\CmajorFirstInv}{\marginpar{\chord{t}{5,4,3,3}{C(1st)}}}
+\newcommand{\CmajorFirstInv}{\marginpar{\chord{t}{5,4,3,3}{C (1st)}}}
 \newcommand{\CsharpMajor}{\marginpar{\chord{t}{1,1,1,4}{C$\sharp$}}}
+
 \newcommand{\DflatMajor}{\marginpar{\chord{t}{1,1,1,4}{D$\flat$}}}
 \newcommand{\Dmajor}{\marginpar{\chord{t}{2,2,2,o}{D}}}
 \newcommand{\DmajorEasy}{\marginpar{\chord{t}{2,2,2,5}{D}}}
 \newcommand{\DsharpMajor}{\marginpar{\chord{t}{3,3,3,6}{D$\sharp$}}}
+
 \newcommand{\EflatMajor}{\marginpar{\chord{t}{3,3,3,6}{E$\flat$}}}
 \newcommand{\Emajor}{\marginpar{\chord{t}{4,4,4,2}{E}}}
-\newcommand{\EmajorEasy}{\marginpar{\chord{t}{4,4,4,7}{E}}}
+% \newcommand{\EmajorEasy}{\marginpar{\chord{t}{4,4,4,7}{E}}}
+\newcommand{\EmajorEasy}{\marginpar{\chords{\chord{{3~}}{p1,p1,p1,p4}{E\large{maj Easy}}}}}
+
 \newcommand{\Fmajor}{\marginpar{\chord{t}{2,o,1,o}{F}}}
 \newcommand{\FsharpMajor}{\marginpar{\chord{t}{3,1,2,1}{F$\sharp$}}}
 \newcommand{\Gmajor}{\marginpar{\chord{t}{o,2,3,2}{G}}}
@@ -128,6 +134,8 @@
 % Minor chords
 \newcommand{\Aminor}{\marginpar{\chord{t}{2,o,o,o}{A\large{m}}}}
 \newcommand{\Bminor}{\marginpar{\chord{t}{4,2,2,2}{B\large{m}}}}
+\newcommand{\BflatMinor}{\marginpar{\chord{t}{3,1,1,1}{B$\flat$\large{m}}}}
+
 \newcommand{\Cminor}{\marginpar{\chord{t}{o,3,3,3}{C\large{m}}}}
 \newcommand{\Dminor}{\marginpar{\chord{t}{2,2,1,o}{D\large{m}}}}
 \newcommand{\Eminor}{\marginpar{\chord{t}{o,4,3,2}{E\large{m}}}}
@@ -141,23 +149,37 @@
 \newcommand{\Aseven}{\marginpar{\chord{t}{o,1,o,o}{A\large{7}}}}
 \newcommand{\AmajorSeven}{\marginpar{\chord{t}{1,1,o,o}{A\large{maj}7}}}
 \newcommand{\AminorSeven}{\marginpar{\chord{t}{o,o,o,o}{A\large{m7}}}}
+
 \newcommand{\BflatSeven}{\marginpar{\chord{t}{1,2,1,1}{B$\flat$\large{7}}}}
+\newcommand{\BmajorSeven}{\marginpar{\chord{t}{4,3,2,1}{B\large{M}\large{7}}}}
 \newcommand{\BminorSeven}{\marginpar{\chord{t}{2,2,2,2}{B\large{m}\large{7}}}}
 \newcommand{\BflatMajorSeven}{\marginpar{\chord{t}{3,2,1,o}{B$\flat$\large{maj7}}}}
 \newcommand{\Bseven}{\marginpar{\chord{t}{2,3,2,2}{B\large{7}}}}
+
 \newcommand{\Cseven}{\marginpar{\chord{t}{o,o,o,1}{C\large{7}}}}
 \newcommand{\CmajorSeven}{\marginpar{\chord{t}{o,o,o,2}{Cmaj\large{7}}}}
 \newcommand{\CsharpMinor}{\marginpar{\chord{t}{6,4,4,4}{C$\sharp$\large{m}}}}
+
 \newcommand{\Dseven}{\marginpar{\chord{t}{2,2,2,3}{D\large{7}}}}
 \newcommand{\DmajorSeven}{\marginpar{\chord{t}{2,2,2,4}{D\large{maj7}}}}
 \newcommand{\DminorSeven}{\marginpar{\chord{t}{2,2,1,3}{D\large{m}7}}}
+
 \newcommand{\Eseven}{\marginpar{\chord{t}{1,2,o,2}{E\large{7}}}}
-\newcommand{\EsevenFirstInv}{\marginpar{\chord{t}{4,4,4,5}{E\large{7}(1st)}}}
+\newcommand{\EsevenFirstInv}{\marginpar{\chord{t}{4,4,4,5}{E\large{7} (1st)}}}
 \newcommand{\EminorSeven}{\marginpar{\chord{t}{o,2,o,2}{E\large{m}7}}}
 \newcommand{\EmajorFudgeSeven}{\marginpar{\chord{t}{o,3,3,2}{E\large{maj}7}}}
+
 \newcommand{\FmajorSeven}{\marginpar{\chord{t}{2,4,1,o}{F\large{maj}7}}}
 \newcommand{\FminorSeven}{\marginpar{\chord{t}{1,3,1,3}{F\large{m}7}}}
+
+% This chord diagram starts from the 5th fret, so it's 6, 6, 6, 8
+\newcommand{\FsharpSeven}{\marginpar{\chords{\chord{{5~}}{p1,p1,p1,p3}{F\large{maj}7}}}}
+
+
+
+
 \newcommand{\Gseven}{\marginpar{\chord{t}{o,2,1,2}{G\large{7}}}}
+\newcommand{\GmajorSeven}{\marginpar{\chord{t}{o,2,2,2}{G\large{maj}7}}}
 
 % Other chords
 \newcommand{\AminorSix}{\marginpar{\chord{t}{2,4,2,3}{A\large{m6}}}}
@@ -192,11 +214,10 @@
 
 \pagenumbering{roman}
 %\pagestyle{plain}
-\newgeometry{top=2cm, bottom=2cm, left=2in, right=2in, textwidth=17cm, 
+\newgeometry{top=2cm, bottom=2cm, left=2in, right=2in, textwidth=17cm,
        textheight=26cm, marginparwidth=0in, nofoot, centering}
 %\maketitle
-\restoregeometry
-
+\restoregeometry%
 %\dominitoc
 %\dominilof
 %\dominilot
@@ -224,7 +245,7 @@
 \include{songs/b/boysofsummer}
 \include{songs/c/cakebytheocean}
 \include{songs/c/callmemaybe}
-\include{songs/c/cantstopthefeeling}
+%\include{songs/c/cantstopthefeeling}
 \include{songs/c/crocodilerock}
 \include{songs/d/damnthesevampires}
 \include{songs/d/dancinginthedark}
@@ -339,4 +360,3 @@
  %chapter appendix_a (end)
 
 \end{document}
-\end
