@@ -21,6 +21,10 @@ LaTeX formatting is not particularly easy, but songs are quite straightforward, 
 
 ## Building
 
+The new build pipeline is done with Github Actions, and when new songs or amendments are pushed, GHA builds the PDF, increments the version number and creates a release of the PDF.
+
+If you would like to build locally, you should either use `pdftex` or try the increasingly-outdated Maven build. 
+
 Maven and Java.
 
 Currently using Java version:
